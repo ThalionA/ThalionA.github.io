@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 .page-header {
   background-image: url('/images/handstand.jpg');
-  background-size: contain;
-  background-position: center;
+  background-size: cover;
+  background-position: top left;
 }
