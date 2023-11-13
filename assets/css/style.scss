@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+header {
+  background-image: url('/images/handstand.jpg');
+  background-size: cover;
+  background-position: center;
+}
