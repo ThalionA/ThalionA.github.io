@@ -1,3 +1,47 @@
+# Site settings
+title: Everest Base Camp Adventure
+description: A detailed journey through our Everest Base Camp trek, including daily logs, maps, gear recommendations, and more.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+# Author information (optional)
+author:
+  name: Theoklitos Amvrosiadis
+  email: theoamvr@gmail.com
+
+# Social media links (optional)
+twitter_username: @theoamvr
+github_username:  your_github
+instagram_username: your_instagram
+
+# Google Analytics (optional)
+google_analytics: UA-XXXXX-Y # Replace with your Google Analytics tracking ID
+
+# Build settings
+markdown: kramdown
+theme: minima # or another theme
+permalink: pretty
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed here will be excluded from site processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - vendor/cache
+  - vendor/gems
+  - vendor/ruby
+
+# Plugins (uncomment to activate)
+# - jekyll-feed
+# - jekyll-seo-tag
+
+# Optional: include a custom 404 page
+# 404.html: your-custom-404-page.html
