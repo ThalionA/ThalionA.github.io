@@ -19,7 +19,6 @@ instagram_username: your_instagram
 
 # Build settings
 markdown: kramdown
-theme: minima # or another theme
 permalink: pretty
 
 # Exclude from processing.
