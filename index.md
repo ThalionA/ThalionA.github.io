@@ -5,31 +5,32 @@ title: Everest Base Camp Adventure
 
 # Welcome to Our Everest Base Camp Adventure
 
-## Introduction
-Briefly introduce your trek to the Everest Base Camp (EBC). You might want to include why you decided to undertake this journey, what it means to you and Lily, and what readers can expect to find on your website.
+## [Introduction](/introduction)
+A brief teaser about your journey. The link will lead to a page with more details.
 
-## About Us
-Introduce yourself and Lily. You could talk about your backgrounds, interests, and what led you to take on such a challenging trek.
+## [About Us](/about-us)
+Introduce yourself and Lily here. Click to read more about your backgrounds and interests.
 
-## The Journey
-Give an overview of your journey. You can discuss the route you took, major milestones, and the overall duration of the trek.
+## [The Journey](/the-journey)
+An overview of your journey with a link to a detailed account.
 
-## Daily Logs
-Mention that you'll be sharing daily logs, perhaps with insights, reflections, and experiences from each day of the trek.
+## [Daily Logs](/daily-logs)
+Brief description with a link to your daily logs and experiences.
 
-## Maps and Routes
-Talk about how you'll provide detailed maps and routes based on your Garmin watch recordings.
+## [Maps and Routes](/maps-and-routes)
+Mention the detailed maps and routes, link to a page where these are available.
 
-## Gear Recommendations
-Mention that you'll offer advice on the gear that worked best for you and what you'd recommend to others planning a similar trek.
+## [Gear Recommendations](/gear-recommendations)
+A teaser about the gear you used, with a link to a page detailing your recommendations.
 
-## Training Suggestions
-Briefly touch on how you prepared for the trek, with a teaser for more detailed training suggestions on another page.
+## [Training Suggestions](/training-suggestions)
+Introduce your training regime with a link to a detailed guide or suggestions.
 
-## Custom Streamlit Apps
-Introduce any custom Streamlit applications you've developed, explaining their purpose and how they might be useful to your readers.
+## [Custom Streamlit Apps](/streamlit-apps)
+Briefly describe your custom Streamlit apps and link to a page where visitors can find more information or access the apps.
 
-## Contact and Social Media
-Provide contact information or links to your social media for those who want to follow your adventures or get in touch.
+## [Contact and Social Media](/contact)
+Provide a link to a page with your contact information and social media links.
 
 ---
+
