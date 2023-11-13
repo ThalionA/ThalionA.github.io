@@ -1,8 +1,6 @@
 # Site settings
 title: Everest Base Camp Adventure
 description: A detailed journey through our Everest Base Camp trek, including daily logs, maps, gear recommendations, and more.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
@@ -18,9 +16,6 @@ author:
 twitter_username: @theoamvr
 github_username:  your_github
 instagram_username: your_instagram
-
-# Google Analytics (optional)
-google_analytics: UA-XXXXX-Y # Replace with your Google Analytics tracking ID
 
 # Build settings
 markdown: kramdown
