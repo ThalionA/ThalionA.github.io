@@ -33,5 +33,3 @@ Introduce any custom Streamlit applications you've developed, explaining their p
 Provide contact information or links to your social media for those who want to follow your adventures or get in touch.
 
 ---
-
-Remember, this is just a starting point. Feel free to adjust the content to better match your style, the information you want to share, and the layout of your site. The great thing about Markdown and GitHub Pages is the flexibility they offer in terms of content and design.
