@@ -7,14 +7,14 @@ The main book I used to create a structured training plan was Training for the N
 <figure>
     <figcaption>Link to Goodreads</figcaption>
 	<a href="https://www.goodreads.com/book/show/18342422-training-for-the-new-alpinism" target="_blank">
-    	<img src="/newalpinism.jpg" alt="goodreads">
+    	<img src="/images/newalpinism.jpg" alt="goodreads">
 	</a>
 </figure>
 
 <figure>
     <figcaption>Link to Amazon</figcaption>
 	<a href="https://amzn.eu/d/iwcMpq0" target="_blank">
-    	<img src="/newalpinism.jpg" alt="amazon">
+    	<img src="/images/newalpinism.jpg" alt="amazon">
 	</a>
 </figure>
 
