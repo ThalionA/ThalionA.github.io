@@ -11,7 +11,7 @@ We hope you find value and inspiration in these pages. Welcome to a glimpse of E
 
 
 ## [Daily Logs](/daily-logs)
-A daily account of trip written day by day.
+A daily account of the trek written day by day.
 
 ## [Maps and Routes](/maps-and-routes)
 Detailed account of each day's hike with distance, elevation, and maps.
