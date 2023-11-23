@@ -107,7 +107,7 @@ I hope this night goes better and I feel better tomorrow. We're supposed to go t
 Thankfully, the pattern of each day feeling worse than the previous one didn't continue. I had a half-descent sleep last night (still riddled with need to burp, fart, pee...) and felt quite a bit better.
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="/images/panorama1.jpg" alt="Panorama of Everest Base Camp" style="margin-right: 10px; width: 200px; height: auto;">
+    <img src="/images/panorama1.jpg" alt="Panorama of Everest Base Camp" style="margin-right: 10px; width: 1200px; height: auto;">
     <p>Today was the day we reached our destination, Everest Base Camp! The way was quite rocky, but not too hard or long. Funnily enough, there are better views of Everest along the way compared to EBC itself. What dominates the view is mostly Nuptse. The other very engaging part of the view is the Khumbu glacier and icefall. We went down some scree to get near the glacier and the ice looked "hairy". There were some frozen glacial lakes dotting the glacier too.</p>
 </div>
 
