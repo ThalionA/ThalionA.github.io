@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Everest Base Camp Adventure
+title: Everest Base Camp Trek
 ---
 
-# Welcome to Our Everest Base Camp Adventure
+# Welcome to Our Ultimate Guide to the Everest Base Camp Trek
 
-## [Introduction](/introduction)
-A brief teaser about your journey. The link will lead to a page with more details.
+Embark on a virtual journey to one of the most iconic destinations in the world: the Everest Base Camp. This website is our comprehensive guide, chronicling not only our personal experiences and daily logs from the trek but also providing essential information and resources to help you prepare for your own adventure.
+
 
 ## [Daily Logs](/daily-logs)
 A daily account of trip written day by day.
@@ -19,6 +19,9 @@ The gear I used on the trek and some recommendations.
 
 ## [Training](/training-suggestions)
 My training prior to the trek and some recommendations.
+
+## [Logistics](/logistics)
+All the practical details for the trip, from the expenses breakdown to the required vaccinations and more.
 
 ## [Test your fitness](/streamlit-apps)
 A couple of simple apps I built that you can use to test different aspects of your fitness.
