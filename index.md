@@ -14,11 +14,11 @@ A daily account of trip written day by day.
 ## [Maps and Routes](/maps-and-routes)
 Detailed account of each day's hike with distance, elevation, and maps.
 
-## [Gear Recommendations](/gear-recommendations)
-A teaser about the gear you used, with a link to a page detailing your recommendations.
+## [Gear](/gear-recommendations)
+The gear I used on the trek and some recommendations.
 
-## [Training Suggestions](/training-suggestions)
-Introduce your training regime with a link to a detailed guide or suggestions.
+## [Training](/training-suggestions)
+My training prior to the trek and some recommendations.
 
 ## [Test your fitness](/streamlit-apps)
 Briefly describe your custom Streamlit apps and link to a page where visitors can find more information or access the apps.
