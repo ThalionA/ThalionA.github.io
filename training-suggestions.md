@@ -28,6 +28,13 @@ The main training principles from this book are:
   <li>Modulation - adaptations happen while you rest</li>
 </ul>
 
+Taking into account that I live in a very flat area, my training revolved around 3 main axes for this trek:
+<ul>
+  <li>Aerobic base: Two running sessions per week; one long (typically > 8km) and slow (nose-breathing throughout), one short (typically 5km) and fast (typically < 5min/km pace for me) </li>
+  <li>Weight training: Typically two sessions per week with a split between the 3 main lifts (squats, deadlifts, bench press)</li>
+  <li>Some form of weighted uphill training (with a backpack) - typically using a box step, an incline treadmill, or (when lucky) hiking</li>
+</ul>
+
 
 This document shows my training schedule for the 4 months leading up to the trek:
 <div style="position: relative; overflow: hidden; padding-top: 56.25%; width: 100%;">
