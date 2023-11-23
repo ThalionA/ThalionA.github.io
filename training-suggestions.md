@@ -30,7 +30,14 @@ The main training principles from this book are:
 
 
 This document shows my training schedule for the 4 months leading up to the trek:
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRAMmarVnTiKNiqIr8FvDRM2EzYsSjRpjKemeP5xwF2TYgNwkklfj_ETslVLENP2nrUciTBjpQ7PvL_/pub?embedded=true"></iframe>
+<div style="position: relative; overflow: hidden; padding-top: 56.25%; width: 100%;">
+    <iframe 
+        src="https://docs.google.com/document/d/e/2PACX-1vRAMmarVnTiKNiqIr8FvDRM2EzYsSjRpjKemeP5xwF2TYgNwkklfj_ETslVLENP2nrUciTBjpQ7PvL_/pub?embedded=true" 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        title="Training Schedule Document">
+    </iframe>
+</div>
+
 
 
 If you'd like to test your fitness, go to this [page](/streamlit-apps) to find some custom-built online apps.
