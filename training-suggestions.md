@@ -51,3 +51,5 @@ If you have access to hills/mountains, your training could (should!) look quite 
 
 If you'd like to test your fitness, go to this [page](/streamlit-apps) to find some custom-built online apps.
 
+If you'd like to check your weightlifting strength compared to standards based on weight and age you can go [here](https://strengthlevel.com/strength-standards)
+
