@@ -98,7 +98,7 @@ Every day seems harder than the previous one and I keep feeling worse and worse.
 
 Today, I kept needing to burp a lot and felt that I might throw up even. I feel like I barely made it to Gorak Shep, even though it was just a 3-hour hike with no more than 300m of elevation gain. Very tired. We took a nap after getting a room at the Himalaya Lodge. Facilities are going down as we're going up.
 
-For dinner, we came down to the common room and it was completely packed! Never seen something like this onthe trek before. We couldn't sit anywhere because all the tables were taken by big groups. Fortunately, the hosts took pity on us just standing there and made a couple of locals stand up to give us space. Minimal appetite for me (thankfully not for Lily), barely finished the Dal soup and not the entire portion of rice.
+For dinner, we came down to the common room and it was completely packed! Never seen something like this on the trek before. We couldn't sit anywhere because all the tables were taken by big groups. Fortunately, the hosts took pity on us just standing there and made a couple of locals stand up to give us space. Minimal appetite for me (thankfully not for Lily), barely finished the Dal soup and not the entire portion of rice.
 
 I hope this night goes better and I feel better tomorrow. We're supposed to go to EBC (finally!) and then as far down as our tired bodies will take us.
 
@@ -106,7 +106,10 @@ I hope this night goes better and I feel better tomorrow. We're supposed to go t
 
 Thankfully, the pattern of each day feeling worse than the previous one didn't continue. I had a half-descent sleep last night (still riddled with need to burp, fart, pee...) and felt quite a bit better.
 
-Today was the day we reached our destination, Everest Base Camp! The way was quite rocky, but not too hard or long. Funnily enough, there are better views of Everest along the way compared to EBC itself. What dominates the view is mostly Nuptse. The other very engaging part of the view is the Khumbu glacier and icefall. We went down some scree to get near the glacier and the ice looked "hairy". There were some frozen glacial lakes dotting the glacier too. 
+<div style="display: flex; align-items: flex-start;">
+    <img src="/images/panorama1.jpg" alt="Panorama of Everest Base Camp" style="margin-right: 10px; width: 200px; height: auto;">
+    <p>Today was the day we reached our destination, Everest Base Camp! The way was quite rocky, but not too hard or long. Funnily enough, there are better views of Everest along the way compared to EBC itself. What dominates the view is mostly Nuptse. The other very engaging part of the view is the Khumbu glacier and icefall. We went down some scree to get near the glacier and the ice looked "hairy". There were some frozen glacial lakes dotting the glacier too.</p>
+</div>
 
 There were quite a few people at EBC, taking photos etc. Most of them wanted a photo with the boulder on which "EBC" is written, and we took photos with it too, as is customary I guess. Myself, I wished there were no people around, so that we could sit for a while in silence and look at the mountains and listen to the occasional sounds of the glacier. As it was, the experience of being there didn't exactly disappoint, but it definitely wasn't some dramatic moment of parting clouds and singing angels. 
 
@@ -118,7 +121,7 @@ We returned to Gorak Shep, ate some lunch and made our way back to Lobuche. Acco
 
 Our descent is now truly underway. Today, we left Lobuche at 8 in the morning and made it all the way down (and some way up) to Tengboche, where we'll stay for the night. Our starting elevation was above 4900m and our final one is below 3900m. We covered almost 18km in 5h40min of walking time. The biggest change, I think, is the one of scenery. When we started out, we walked in dusty and barren valleys and on rocky path, with only small bushes growing around. After passing Pheriche (where we had a nice lunch, a tuna sandwich), the river really started building up, and by the time we were between Pangboche and Tengboche, we were walking through forests again!
 
-For part of the way to Pangboche we made a little friend, a white do, but then he betrayed us and now I don't love him anymore.
+For part of the way to Pangboche we made a little friend, a white dog, but then he betrayed us and now I don't love him anymore.
 
 Even though it was a long day of hiking, I felt better than the previous few days, quite noticeably, since most of the time the hiking was easy and downhill, but more importantly because I had a good night's sleep finally, with almost no interruptions. Burps etc also noticeably down, I'm not sure if because of staying away from eggs (which I suspected as the cause of my gastrointestinal discomfort), or because I got used to the higher altitude, or due to something else. In any case, whatever it was, I'm happy about the reprieve. My nose though is quite burnt and peeling. I'm trying to apply some sunscreen and some of Lily's facial cream.
 
@@ -130,7 +133,7 @@ Relatively arduous day that started off with a steep downhill from Tengboche. (T
 
 We had a nice lunch (tuna sandwiches are really worth it in Nepal apparently) with a great view to the mountaints at Kyangjuma. We were quite tired when we reached Namche and were looking forward to our first shower since the time we were last here (9 days ago!). We couldn't get a room at Yak Hotel again though, so we ended up getting a deluxe room (including double bed, ensuite toilet, and a shower) at Hotel Khangri. For dinner I had a burger since I was craving meat and I almost had a second one. I even got ice cream (mint choc chip) for dessert.
 
-First nigh without sleeping bags during the trip, crazy!
+First night without sleeping bags during the trip, crazy!
 
 # Lukla EBC Trek Day 13 - 08/11/23
 
