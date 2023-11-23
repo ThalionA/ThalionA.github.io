@@ -29,6 +29,9 @@ The main training principles from this book are:
 </ul>
 
 
+This document shows my training schedule for the 4 months leading up to the trek:
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRAMmarVnTiKNiqIr8FvDRM2EzYsSjRpjKemeP5xwF2TYgNwkklfj_ETslVLENP2nrUciTBjpQ7PvL_/pub?embedded=true"></iframe>
 
-If you'd like to test your fitness, here's a free online app I created to do so using either a running or a rowing test: <a href="https://vo2max.streamlit.app/" target="_blank">VO2 max test</a>
+
+If you'd like to test your fitness, go to this [page](/streamlit-apps) to find some custom-built online apps.
 

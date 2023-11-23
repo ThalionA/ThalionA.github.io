@@ -21,7 +21,7 @@ The gear I used on the trek and some recommendations.
 My training prior to the trek and some recommendations.
 
 ## [Test your fitness](/streamlit-apps)
-Briefly describe your custom Streamlit apps and link to a page where visitors can find more information or access the apps.
+A couple of simple apps I built that you can use to test different aspects of your fitness.
 
 ## [About Us](/about-us)
 Introduce yourself and Lily here. Click to read more about your backgrounds and interests.
