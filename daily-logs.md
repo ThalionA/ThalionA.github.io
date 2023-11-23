@@ -7,8 +7,7 @@ I tried to keep a daily log of my thoughts about the experiences of each day, so
 
 ![Writing in the journal at the end of the day in the teahouse common room](/images/dailylogs.jpg)
 
-If you're interested in reading my raw handwritten daily logs (otherwise, just skip to the text below):
-<iframe src="/note_flipbook.html" width="600" height="800" style="border:none;"></iframe>
+If you're interested in reading my raw handwritten daily logs, go to the end of this page.
 
 # Monjo, EBC Trek Day 1 - 24/10/23
 
@@ -106,10 +105,9 @@ I hope this night goes better and I feel better tomorrow. We're supposed to go t
 
 Thankfully, the pattern of each day feeling worse than the previous one didn't continue. I had a half-descent sleep last night (still riddled with need to burp, fart, pee...) and felt quite a bit better.
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="/images/panorama1.jpg" alt="Panorama of Everest Base Camp" style="margin-right: 10px; width: 1200px; height: auto;">
-    <p>Today was the day we reached our destination, Everest Base Camp! The way was quite rocky, but not too hard or long. Funnily enough, there are better views of Everest along the way compared to EBC itself. What dominates the view is mostly Nuptse. The other very engaging part of the view is the Khumbu glacier and icefall. We went down some scree to get near the glacier and the ice looked "hairy". There were some frozen glacial lakes dotting the glacier too.</p>
-</div>
+Today was the day we reached our destination, Everest Base Camp! The way was quite rocky, but not too hard or long. Funnily enough, there are better views of Everest along the way compared to EBC itself. What dominates the view is mostly Nuptse. The other very engaging part of the view is the Khumbu glacier and icefall. We went down some scree to get near the glacier and the ice looked "hairy". There were some frozen glacial lakes dotting the glacier too.
+
+<img src="/images/panorama1.jpg" alt="Panorama of Everest Base Camp" width="1200"/>
 
 There were quite a few people at EBC, taking photos etc. Most of them wanted a photo with the boulder on which "EBC" is written, and we took photos with it too, as is customary I guess. Myself, I wished there were no people around, so that we could sit for a while in silence and look at the mountains and listen to the occasional sounds of the glacier. As it was, the experience of being there didn't exactly disappoint, but it definitely wasn't some dramatic moment of parting clouds and singing angels. 
 
@@ -159,3 +157,6 @@ Well, things didn't go according to plan. They gave our seats to other people an
 
 I liked looking at the river that was next to the road from Ramechap to Kathmandu. It seems that it's harvesting season, so there were a lot of people working in the fields under the sun - it looks like 99% of the work is being done manually still.
 
+
+My handwritten notes:
+<iframe src="/note_flipbook.html" width="600" height="800" style="border:none;"></iframe>
