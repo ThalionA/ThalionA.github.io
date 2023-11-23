@@ -4,3 +4,6 @@ title: Daily Logs
 ---
 
 ![Writing in the journal at the end of the day in the teahouse common room](/images/dailylogs.jpg)
+
+Check out my [Daily Logs](/note_flipbook.html).
+
