@@ -158,5 +158,7 @@ Well, things didn't go according to plan. They gave our seats to other people an
 I liked looking at the river that was next to the road from Ramechap to Kathmandu. It seems that it's harvesting season, so there were a lot of people working in the fields under the sun - it looks like 99% of the work is being done manually still.
 
 
-My handwritten notes:
+
+
+# My handwritten notes:
 <iframe src="/note_flipbook.html" width="600" height="800" style="border:none;"></iframe>
