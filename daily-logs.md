@@ -9,7 +9,7 @@ I tried to keep a daily log of my thoughts about the experiences of each day, so
 
 If you're interested in reading my raw handwritten daily logs, go to the end of this page.
 
-# Monjo, EBC Trek Day 1 - 24/10/23
+# Monjo, EBC Trek Day 1 - 27/10/23
 
 This was the first day of the trek that will take us from Lukla to Everest Base Camp. It was quite full and as I sit here with a cup of tea in the communal area of the teahouse we'll be staying for the night, I'm already ready to sleep at 16:30! But since we're waiting for food anyway, I might as well jot some of the events of the day down.
 
