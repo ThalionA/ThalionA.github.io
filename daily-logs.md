@@ -161,4 +161,4 @@ I liked looking at the river that was next to the road from Ramechap to Kathmand
 
 
 # My handwritten notes:
-<iframe src="/note_flipbook.html" width="600" height="800" style="border:none;"></iframe>
+<iframe src="/note_flipbook.html" style="border:none;"></iframe>
