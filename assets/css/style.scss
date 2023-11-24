@@ -59,3 +59,18 @@ tr:nth-child(even) {background-color: #f9f9f9;}
     font-weight: bold;
   }
 }
+
+iframe {
+  width: 100%; // Take the full width of the container
+  height: 50vh; // Use 50% of the viewport height, adjust as needed
+  max-width: 465px; // Maximum width set to the original width
+  max-height: 500px; // Maximum height set to the original height
+  border: 0; // Removes the border
+}
+
+// Optional: Adjust the height on smaller screens
+@media only screen and (max-width: 760px) {
+  iframe {
+    height: 300px; // Set a fixed height on smaller screens if 50vh is too tall
+  }
+}

@@ -182,17 +182,17 @@ In this page you'll find the itinerary that we followed, some summary stats for 
 # Garmin-recorded activities
 (note: sometimes Garmin doesn't load the data properly; try refreshing the page)
 
-<iframe src='https://connect.garmin.com/modern/activity/embed/12498323472' title='Lukla to Monjo' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12498339082' title='Monjo to Namche Bazaar' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12511335142' title='Namche Bazaar to Everest View Hotel' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12528337783' title='Namche Bazaar to Pangboche' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12539222029' title='Pangboche to Ama Dablam Base Camp (return)' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12551679441' title='Pangboche to Lobuche' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12566960884' title='Dingboche to Nangkartshang (return)' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12580623725' title='Dingboche to Lobuche' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12605677688' title='Lobuche to Gorak Shep' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12605679964' title='Gorak Shep to Everest Base Camp (return)' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12605681539' title='Gorak Shep to Lobuche' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12632525838' title='Lobuche to Tengboche' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12632528463' title='Tengboche to Namche Bazaar' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/modern/activity/embed/12648497935' title='Namche Bazaar to Lukla' width='465' height='500' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12498323472' title='Lukla to Monjo' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12498339082' title='Monjo to Namche Bazaar' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12511335142' title='Namche Bazaar to Everest View Hotel' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12528337783' title='Namche Bazaar to Pangboche' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12539222029' title='Pangboche to Ama Dablam Base Camp (return)' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12551679441' title='Pangboche to Lobuche' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12566960884' title='Dingboche to Nangkartshang (return)' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12580623725' title='Dingboche to Lobuche' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12605677688' title='Lobuche to Gorak Shep' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12605679964' title='Gorak Shep to Everest Base Camp (return)' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12605681539' title='Gorak Shep to Lobuche' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12632525838' title='Lobuche to Tengboche' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12632528463' title='Tengboche to Namche Bazaar' frameborder='0'></iframe>
+<iframe src='https://connect.garmin.com/modern/activity/embed/12648497935' title='Namche Bazaar to Lukla' frameborder='0'></iframe>
