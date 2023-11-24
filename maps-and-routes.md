@@ -22,7 +22,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
   <tbody>
     <tr>
       <td>Lukla to Monjo</td>
-      <td>10/27/2023 7:38</td>
+      <td>27/10/2023</td>
       <td>12.94</td>
       <td>527</td>
       <td>558</td>
@@ -33,7 +33,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Monjo to Namche Bazaar</td>
-      <td>10/28/2023 8:21</td>
+      <td>28/10/2023 8:21</td>
       <td>6.13</td>
       <td>659</td>
       <td>116</td>
@@ -44,7 +44,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Namche Bazaar to Everest View Hotel</td>
-      <td>10/29/2023 8:55</td>
+      <td>29/10/2023 8:55</td>
       <td>2.8</td>
       <td>432</td>
       <td>24</td>
@@ -55,7 +55,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Namche Bazaar to Pangboche</td>
-      <td>10/30/2023 8:34</td>
+      <td>30/10/2023 8:34</td>
       <td>14.24</td>
       <td>1,060</td>
       <td>582</td>
@@ -66,7 +66,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Pangboche to Ama Dablam Base Camp (return)</td>
-      <td>10/31/2023 8:43</td>
+      <td>31/10/2023 8:43</td>
       <td>9.67</td>
       <td>768</td>
       <td>741</td>
@@ -77,7 +77,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Pangboche to Dingboche</td>
-      <td>11/1/2023 9:22</td>
+      <td>01/11/2023 9:22</td>
       <td>6.36</td>
       <td>481</td>
       <td>81</td>
@@ -88,7 +88,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Dingboche to Nangkartshang (return)</td>
-      <td>11/2/2023 8:23</td>
+      <td>02/11/2023 8:23</td>
       <td>6.63</td>
       <td>762</td>
       <td>1,116</td>
@@ -99,7 +99,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Dingboche to Lobuche</td>
-      <td>11/3/2023 9:01</td>
+      <td>03/11/2023 9:01</td>
       <td>9.14</td>
       <td>718</td>
       <td>111</td>
@@ -110,7 +110,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Lobuche to Gorak Shep</td>
-      <td>11/4/2023 9:02</td>
+      <td>04/11/2023 9:02</td>
       <td>5.01</td>
       <td>334</td>
       <td>97</td>
@@ -121,7 +121,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Gorak Shep to Everest Base Camp (return)</td>
-      <td>11/5/2023 7:57</td>
+      <td>05/11/2023 7:57</td>
       <td>6.7</td>
       <td>248</td>
       <td>251</td>
@@ -132,7 +132,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Gorak Shep to Lobuche</td>
-      <td>11/5/2023 14:28</td>
+      <td>05/11/2023 14:28</td>
       <td>4.84</td>
       <td>84</td>
       <td>324</td>
@@ -143,7 +143,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Lobuche to Tengboche</td>
-      <td>11/6/2023 8:02</td>
+      <td>06/11/2023 8:02</td>
       <td>17.87</td>
       <td>303</td>
       <td>1,359</td>
@@ -154,7 +154,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Tengboche to Namche Bazaar</td>
-      <td>11/7/2023 9:02</td>
+      <td>07/11/2023 9:02</td>
       <td>10.03</td>
       <td>432</td>
       <td>848</td>
@@ -165,7 +165,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
     </tr>
     <tr>
       <td>Namche Bazaar to Lukla</td>
-      <td>11/8/2023 8:58</td>
+      <td>08/11/2023 8:58</td>
       <td>18.22</td>
       <td>721</td>
       <td>1,226</td>
