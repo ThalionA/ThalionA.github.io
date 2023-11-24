@@ -8,57 +8,26 @@
   background-position: center;
 }
 
-table {
+.activity-table {
   width: 100%;
   border-collapse: collapse;
-  overflow-x: auto;
-}
-th, td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: left;
-}
-th {
-  background-color: #f4f4f4;
-}
-tr:nth-child(even) {background-color: #f9f9f9;}
-
-@media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px) {
-  table, thead, tbody, th, td, tr {
-    display: block;
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
   }
-
-  thead tr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
+  th {
+    background-color: #f4f4f4;
   }
+  tr:nth-child(even) {background-color: #f9f9f9;}
+}
 
-  tr { border: 1px solid #ccc; }
-
-  td {
-    // Behave like a "row"
-    border: none;
-    border-bottom: 1px solid #eee;
-    position: relative;
-    padding-left: 50%;
-  }
-
-  td:before {
-    // Now like a table header
-    position: absolute;
-    // Top/left values mimic padding
-    top: 6px;
-    left: 6px;
-    width: 45%;
-    padding-right: 10px;
-    white-space: nowrap;
-    // Label the data
-    content: attr(data-label);
-
-    font-weight: bold;
+@media only screen and (max-width: 760px) {
+  .activity-table-container {
+    overflow-x: auto; // Enable horizontal scrolling
   }
 }
+
 
 iframe {
   width: 100%; // Take the full width of the container
