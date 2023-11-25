@@ -176,7 +176,7 @@ In this page you'll find the itinerary that we followed, some summary stats for 
 	      <td>3,430</td>
 	    </tr>    
 	    <tr>
-	      <td>Grand Total</td>
+	      <td>**Grand Total**</td>
 	      <td></td>
 	      <td>130.58</td>
 	      <td>7,529</td>
