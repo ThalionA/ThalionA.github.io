@@ -16,16 +16,17 @@ title: Gear Recommendations
 - <a href="https://www.amazon.co.uk/Nalgene-WH-Sustain-Bottle-cerulean/dp/B08JCP9R65/ref=sr_1_4?crid=3UCT3GMU6SK5U&keywords=nalgene%2Bbottle%2B1l&qid=1700755011&s=sports&sprefix=nalgene%2Bbottle%2B1l%2Csports%2C90&sr=1-4&th=1" target="_blank">Nalgene water bottle</a>
 - <a href="https://www.amazon.co.uk/gp/product/B082V9MYY2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&th=1&psc=1" target="_blank">Merino wool socks</a>
 - <a href="https://www.decathlon.co.uk/p/trekking-merino-wool-knit-cap-mt500/_/R-p-302969?mc=8546154" target="_blank">FORCLAZ TREKKING MERINO WOOL KNIT CAP - MT500</a>
-- <a href="https://www.decathlon.co.uk/p/multi-position-merino-wool-tube-scarf/_/R-p-183231?mc=8493090" target="_blank">FORCLAZ Multi-Position Merino Wool Tube Scarf</a>
 - <a href="https://www.decathlon.co.uk/p/adult-polarised-category-4-hiking-sunglasses-black/_/R-p-181313?mc=8548667" target="_blank">QUECHUA Polarised Category 4 Hiking Sunglasses</a>
+- <a href="https://www.sportpursuit.com/catalog/product/view/id/1042456" target="_blank">ISOBAA Mens Merino 180 Boxers</a>
+- <a href="https://www.sportpursuit.com/catalog/product/view/id/1042699" target="_blank">ISOBAA Merino 180 Neck Warmer</a>
+- <a href="https://www.sportpursuit.com/catalog/product/view/id/2103337" target="_blank">BØLGER Mens Tustna Merino Blend T-Shirt</a>
+
 
 # Some gear during training
 - <a href="https://www.amazon.co.uk/dp/B01HD6SV72/ref=twister_B0CG6D5DKF?th=1&psc=1" target="_blank">SALOMON XA Pro 3D Men's Trail Running and Hiking Shoes</a>
 - <a href="https://www.amazon.co.uk/gp/product/B017SR0BB0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1&psc=1" target="_blank">SALOMON Speedcross 4, Men's Trail Running Shoes</a>
 - <a href="https://startfitness.co.uk/collections/all/products/salomon-glide-max-mens-running-shoes-black" target="_blank">SALOMON Glide Max Mens Running Shoes</a>
 - <a href="https://www.amazon.co.uk/gp/product/B07VVM1VM6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1" target="_blank">Garmin fenix 6</a>
+- <a href="https://www.amazon.co.uk/gp/product/B0713W56XZ/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1" target="_blank">Beast Gear Weight Lifting Straps</a>
 
-
-
-
-
+ 
