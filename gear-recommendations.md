@@ -28,5 +28,10 @@ title: Gear Recommendations
 - <a href="https://startfitness.co.uk/collections/all/products/salomon-glide-max-mens-running-shoes-black" target="_blank">SALOMON Glide Max Mens Running Shoes</a>
 - <a href="https://www.amazon.co.uk/gp/product/B07VVM1VM6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1" target="_blank">Garmin fenix 6</a>
 - <a href="https://www.amazon.co.uk/gp/product/B0713W56XZ/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1" target="_blank">Beast Gear Weight Lifting Straps</a>
+- <a href="https://https://www.amazon.co.uk/gp/product/B07D4J5VDK/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> COOSPO Heart Rate Monitor Chest Strap</a>
 
- 
+# Notes and tips
+- You don't need high-end hiking boots to complete the trek. I saw everything from B2 mountaineering boots to flip flops (!) on the trek, but I think that some sturdy hiking shoes for example the Salomon XA Pro 3D above, would be compeletely fine for this trek (and during the dry season in which we hiked).
+- If you are an experienced hiker, you know whether you prefer to have trekking poles or not. I don't normally use them, but I bought and took some with me anyway. In hindsight, I wouldn't take them again, as I carried them more than they carried me! Every extra bit of weight adds up!
+- You definitely don't need a high-end watch like the Garmin Fenix 7, either for training or for this trek. I only upgraded from the Fenix 6 (already high-end in my opinion) at the last minute, because of the superior battery of the former and its ability for solar charging. I just didn't want to have to charge my watch every second day given that I'd be tracking the [hiking activities](/maps-and-routes). For your [training](/training-suggestions), the most important factor is consistently building your aerobic base. Even if you don't track your every run and your heartrate, you can train very effectively by just running consistently and keeping the intensity low by forcing yourself to slow down to a nose-breathing pace.
+- Merino wool is good for this trip. You're going to be showering less than normal (I hope 9 days between showers isn't your normal ;) ), so they'll help with minimizing odours. Bear in mind that merino wool clothes are more expensive usually.
