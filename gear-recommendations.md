@@ -5,7 +5,7 @@ title: Gear Recommendations
 
 ![Packing all the gear before departing](/images/allgear.jpg)
 
-# My gear in no particular order
+# My gear during the trek 
 - <a href="https://www.amazon.co.uk/gp/product/B09M47L4HN/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&th=1" target="_blank">Garmin fēnix 7X Solar Multisport GPS Watch</a>
 - <a href="https://www.amazon.co.uk/SALOMON-Quest-Hiking-Magnet-Quarry/dp/B08LGCFXFV/ref=sr_1_2?crid=3EC394DYKBQ7T&keywords=-%2BSALOMON%2BMens%2BQuest%2B4D%2B3%2BGTX%2BWalking%2BBoots&qid=1700755189&s=sports&sprefix=salomon%2Bmens%2Bquest%2B4d%2B3%2Bgtx%2Bwalking%2Bboots%2B%2Csports%2C93&sr=1-2&th=1&psc=1" target="_blank">SALOMON Mens Quest 4D 3 GTX Walking Boots</a>
 - <a href="https://www.decathlon.co.uk/p/men-s-mountaineering-trousers-alpinism-light-evo-grey/_/R-p-334254?mc=8648882" target="_blank">SIMOND Men’s Mountaineering Trousers</a>
@@ -18,6 +18,13 @@ title: Gear Recommendations
 - <a href="https://www.decathlon.co.uk/p/trekking-merino-wool-knit-cap-mt500/_/R-p-302969?mc=8546154" target="_blank">FORCLAZ TREKKING MERINO WOOL KNIT CAP - MT500</a>
 - <a href="https://www.decathlon.co.uk/p/multi-position-merino-wool-tube-scarf/_/R-p-183231?mc=8493090" target="_blank">FORCLAZ Multi-Position Merino Wool Tube Scarf</a>
 - <a href="https://www.decathlon.co.uk/p/adult-polarised-category-4-hiking-sunglasses-black/_/R-p-181313?mc=8548667" target="_blank">QUECHUA Polarised Category 4 Hiking Sunglasses</a>
+
+# Some gear during training
+- <a href="https://www.amazon.co.uk/dp/B01HD6SV72/ref=twister_B0CG6D5DKF?th=1&psc=1" target="_blank">SALOMON XA Pro 3D Men's Trail Running and Hiking Shoes</a>
+- <a href="https://www.amazon.co.uk/gp/product/B017SR0BB0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1&psc=1" target="_blank">SALOMON Speedcross 4, Men's Trail Running Shoes</a>
+- <a href="https://startfitness.co.uk/collections/all/products/salomon-glide-max-mens-running-shoes-black" target="_blank">SALOMON Glide Max Mens Running Shoes</a>
+- <a href="https://www.amazon.co.uk/gp/product/B07VVM1VM6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1" target="_blank">Garmin fenix 6</a>
+
 
 
 
