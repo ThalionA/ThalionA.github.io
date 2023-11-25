@@ -22,7 +22,7 @@ title: Gear Recommendations
 - <a href="https://www.sportpursuit.com/catalog/product/view/id/2103337" target="_blank">BØLGER Mens Tustna Merino Blend T-Shirt</a>
 
 
-# Some gear during training
+# Some gear I used during training
 - <a href="https://www.amazon.co.uk/dp/B01HD6SV72/ref=twister_B0CG6D5DKF?th=1&psc=1" target="_blank">SALOMON XA Pro 3D Men's Trail Running and Hiking Shoes</a>
 - <a href="https://www.amazon.co.uk/gp/product/B017SR0BB0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1&psc=1" target="_blank">SALOMON Speedcross 4, Men's Trail Running Shoes</a>
 - <a href="https://startfitness.co.uk/collections/all/products/salomon-glide-max-mens-running-shoes-black" target="_blank">SALOMON Glide Max Mens Running Shoes</a>
