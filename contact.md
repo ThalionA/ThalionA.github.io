@@ -10,53 +10,41 @@ title: Contact Us
         margin: 0 auto;
         padding: 1em;
         background: #f9f9f9;
-        border-radius: 5px;
+        border-radius: 50%; /* This will create the circular effect */
+        text-align: center;
+        overflow: hidden; /* This ensures no inner content spills out of the circular bounds */
     }
 
-    /* Style inputs, textarea, and button */
+    /* Additional styles might be necessary for form elements */
+    .contact-form input[type="text"],
+    .contact-form input[type="email"],
+    .contact-form textarea,
+    .contact-form button {
+        /* Assuming you want these elements to keep straight edges */
+        border-radius: 0; /* Resets any border-radius applied to form elements */
+        /* Other styles... */
+    }
+
+    /* You might want to adjust the form elements to ensure they fit well within the circular container */
     .contact-form input[type="text"],
     .contact-form input[type="email"],
     .contact-form textarea {
-        width: 100%;
-        padding: 0.5em;
-        margin-bottom: 1em;
-        border: 1px solid #ccc;
-        border-radius: 3px;
-    }
-
-    .contact-form textarea {
-        height: 150px;
+        width: calc(100% - 2em); /* Adjust width considering padding */
+        margin: 0.5em auto; /* Centering the inputs */
+        display: block;
     }
 
     .contact-form button {
-        background: #007bff;
-        color: white;
-        border: none;
-        padding: 0.7em 1.5em;
-        text-transform: uppercase;
-        cursor: pointer;
-        border-radius: 3px;
-        display: block;
-        width: 100%;
+        /* Other styles... */
+        margin-top: 0.5em;
     }
 
-    .contact-form button:hover {
-        background: #0056b3;
-    }
-
-    /* Label styling */
-    .contact-form label {
-        display: block;
-        margin-bottom: .5em;
-    }
-
-    /* Focus styles for input elements */
-    .contact-form input:focus,
-    .contact-form textarea:focus {
-        outline: none;
-        border-color: #007bff;
+    /* Adjust the height of the textarea for better fit */
+    .contact-form textarea {
+        height: 100px; /* Example height */
     }
 </style>
+
 
 ## How to contact us
 
