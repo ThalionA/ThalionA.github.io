@@ -10,7 +10,7 @@ title: Contact Us
         margin: 0 auto;
         padding: 1em;
         background: #f9f9f9;
-        border-radius: 50%; /* This will create the circular effect */
+        border-radius: 70%; /* This will create the circular effect */
         text-align: center;
         overflow: hidden; /* This ensures no inner content spills out of the circular bounds */
     }
