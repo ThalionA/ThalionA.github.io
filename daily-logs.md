@@ -175,6 +175,13 @@ I liked looking at the river that was next to the road from Ramechap to Kathmand
 
 </div>
 
+
+<!-- Lily's Log content -->
+<div id="LilysLog" class="tabcontent">
+  <h3>Lily's Log</h3>
+  <!-- Lily's markdown/log content goes here -->
+</div>
+
 function openLog(evt, logName) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
