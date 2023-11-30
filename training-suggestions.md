@@ -38,7 +38,7 @@ Below you'll see that my week also included climbing and football, which were th
 
 This document shows my training schedule for the 4 months leading up to the trek:
 <div style="position: relative; overflow: hidden; padding-top: 50%; width: 100%;">
-    <iframe 
+    <iframe
         src="https://docs.google.com/document/d/e/2PACX-1vRAMmarVnTiKNiqIr8FvDRM2EzYsSjRpjKemeP5xwF2TYgNwkklfj_ETslVLENP2nrUciTBjpQ7PvL_/pub?embedded=true" 
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
         title="Training Schedule Document">
