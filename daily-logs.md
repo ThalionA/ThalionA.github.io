@@ -170,7 +170,7 @@ title: Daily Logs
 
 
 <h3>My handwritten notes:</h3>
-	<iframe src="/note_flipbook.html" style="border:none;"></iframe>
+	<iframe src="/note_flipbook.html" width=600px style="border:none;"></iframe>
 
 </div>
 
