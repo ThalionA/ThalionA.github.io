@@ -14,11 +14,11 @@ title: Daily Logs
   <h3>My Log</h3>
   	I tried to keep a daily log of my thoughts about the experiences of each day, so I've included them here in full to get across my feelings at the time, unedited by the lens of memory.
 
-	![Writing in the journal at the end of the day in the teahouse common room](/images/dailylogs.jpg)
+  	<img src="/images/dailylogs.jpg" alt="Writing in the journal at the end of the day in the teahouse common room" width="600"/>
 
 	If you're interested in reading my raw handwritten daily logs, go to the end of this page.
 
-	# Monjo, EBC Trek Day 1 - 27/10/23
+  <h3>Monjo, EBC Trek Day 1 - 27/10/23</h3>
 
 	This was the first day of the trek that will take us from Lukla to Everest Base Camp. It was quite full and as I sit here with a cup of tea in the communal area of the teahouse we'll be staying for the night, I'm already ready to sleep at 16:30! But since we're waiting for food anyway, I might as well jot some of the events of the day down.
 
@@ -32,7 +32,7 @@ title: Daily Logs
 
 	We've had our momos and dal bhat now and we're drinking copious amounts of tea before bed.
 
-	# Namche Bazaar, EBC Trek Day 2 - 28/10/23
+<h3>Namche Bazaar, EBC Trek Day 2 - 28/10/23</h3>
 
 	A very different atmosphere this evening compared to yesterday. While yesterday we were alone in the teahouse's common room for the most part, today the room is full of people of all sorts (locals, Serbian?, French, American, Kiwis, potentially South African). It's much warmer as well, with the use of an AC, instead of yesterday's smokey and inefficient stove.
 
@@ -42,7 +42,7 @@ title: Daily Logs
 
 	We'll stay two nights here to acclimatize to the altitude, with a day hike to Everest View Hotel tomorrow. We'll also take our first shower tomorrow. Ah, the things to look forward to!
 
-	# Namche Bazaar, EBC Trek Day 3 - 29/10/23
+<h3>Namche Bazaar, EBC Trek Day 3 - 29/10/23</h3>
 
 	A much quieter evening today with the common room much emptier than yesterday. There's even space close to the heater to dry the towels we used for our (very hot) showers earlier (500 NPR apiece).
 
@@ -56,7 +56,7 @@ title: Daily Logs
 
 	We saw Ama Dablam for the first time today, looking very sharp and impressive. We also saw Lhotse and Everest for a little while, even though when we reached the hotel the latter was hidden behind clouds. We didn't actually stay there because everything was very expensive. I got to run down a little bit on the trail back!
 
-	# Pangboche, EBC Trek Day 4 - 30/10/23
+<h3>Pangboche, EBC Trek Day 4 - 30/10/23</h3>
 
 	We moved on from our comfortable lodge in Namche today and after a long day's hike, we made it to Pangboche a good ~470m higher. The hike was the longest and hardest so far (and by far) and potentially of the whole trip as well; we'll see about that I guess. It took us ~5h45min of hiking (~7h30min total), with 1060m of elevation gain and 582m loss. We also passed a couple of bridges along the way (running total: 6).
 
@@ -66,7 +66,7 @@ title: Daily Logs
 
 	What is good? I am thankful for the mountains themselves existing in the distance, calling to us, drawing us ever higher and nearer. They have drawn us from across a continent here, just to look at them from below. I am thankful for the breeze when we walk, cooling us down, and for the sun when we stop, keeping us warm. I am thankful for the Sherpa porters showing us mental and physical fortitude, and for the yaks for showing us patience. I am thankful for the relentlessly steep path under our boots for making us slow down and watch our breath, for teaching us to think of just the next step. And I'm thankful for being able to take off my pack at the end of this long day, rest my shoulders, warm up next to the stove, and enjoy a nice hot meal with my cutie.
 
-	# Pangboche, EBC Trek Day 6 - 01/11/23
+<h3>Pangboche, EBC Trek Day 6 - 01/11/23</h3>
 
 	I'm writing this in the morning as we're waiting for our breakfast, since I didn't do it yesterday evening as usual. 
 
@@ -78,7 +78,7 @@ title: Daily Logs
 
 	We've had our breakfast now, drank a few glasses of tea, and it's time to pack our things and move on to Dingboche.
 
-	# Dingboche, EBC trek day 7 - 02/11/23
+<h3>Dingboche, EBC trek day 7 - 02/11/23</h3>
 
 	Writing in the evening again, after a day and a half on the trek. 
 
@@ -88,7 +88,7 @@ title: Daily Logs
 
 	Hopefully, I'll feel better tomorrow as we head to Lobuche (our second to last stop before EBC!).
 
-	# Lobuche, EBC Trek Day 8 - 03/11/23
+<h3>Lobuche, EBC Trek Day 8 - 03/11/23</h3>
 
 	Oof! Today was a bit difficult for me. Not because of the long hike (~3h50min of walking, ~9km, ~720m of ascent), not because of the altitude (we reached just above 4900m), but because of being ill. I struggled for the whole day to breathe through my nose at all, so I had to resort to breathing through my mouth, obviously in heaps of cold air. I was alternating breathing through my neckwarmer but it was hard to keep it on all the time. 
 
@@ -100,7 +100,7 @@ title: Daily Logs
 
 	We passed by a place full of memorial monuments for all the people that these mountains have claimed in one way or another. Among them were Scott Fischer and Rob Hall (from the notorious 1996 disaster immortalized in Krakauer's "Into Thin Air" and the movie Everest). It's strange to think that they still lie on the slopes of Everest (I think) and yet there are these memorial for them quite far from wehere they died. So many people lying dead in the mountains. And for what? On the other hand, so many other people lying dead all over the lowlands, and for what? We all go, one way or another.
 
-	# Gorak Shep, EBC Trek Day 9 - 04/11/23
+<h3>Gorak Shep, EBC Trek Day 9 - 04/11/23</h3>
 
 	Every day seems harder than the previous one and I keep feeling worse and worse. Last night I didn't get almost any sleep and I kept feeling my heart beating in my ears. I was stressed about getting very sick and needing to be evacuated or whatever. I took a Diamox pill for the first time.
 
@@ -110,7 +110,7 @@ title: Daily Logs
 
 	I hope this night goes better and I feel better tomorrow. We're supposed to go to EBC (finally!) and then as far down as our tired bodies will take us.
 
-	# Lobuche, EBC Trek Day 10 - 05/11/23
+<h3>Lobuche, EBC Trek Day 10 - 05/11/23</h3>
 
 	Thankfully, the pattern of each day feeling worse than the previous one didn't continue. I had a half-descent sleep last night (still riddled with need to burp, fart, pee...) and felt quite a bit better.
 
@@ -124,7 +124,7 @@ title: Daily Logs
 
 	We returned to Gorak Shep, ate some lunch and made our way back to Lobuche. According to our schedule, we should've been at Pheriche for the night, but it wasn't really manageable today. That means that we have 3 days of hard walking to make up for lost time. Hopefully, Lily's apparently starting illness won't escalate and my own condition won't worsen again.
 
-	# Tengboche, EBC Trek Day 11 - 06/11/23
+<h3>Tengboche, EBC Trek Day 11 - 06/11/23</h3>
 
 	Our descent is now truly underway. Today, we left Lobuche at 8 in the morning and made it all the way down (and some way up) to Tengboche, where we'll stay for the night. Our starting elevation was above 4900m and our final one is below 3900m. We covered almost 18km in 5h40min of walking time. The biggest change, I think, is the one of scenery. When we started out, we walked in dusty and barren valleys and on rocky path, with only small bushes growing around. After passing Pheriche (where we had a nice lunch, a tuna sandwich), the river really started building up, and by the time we were between Pangboche and Tengboche, we were walking through forests again!
 
@@ -134,7 +134,7 @@ title: Daily Logs
 
 	Tomorrow, we head down to Namche, and the almost luxurious Yak Hotel, with a hot shower and free electricity in out room awaiting us. We'll need to withdraw some money though, because we burned through what we had a bit too quickly. It's going to be a hard day as well, since after the first big downhill, we'll have a long uphill to do. I hope Lily's sore throat improves with warmer air around us.
 
-	# Namche, EBC Trek Day 12 - 07/11/23
+<h3>Namche, EBC Trek Day 12 - 07/11/23</h3>
 
 	Relatively arduous day that started off with a steep downhill from Tengboche. (The view from the room's window was probably the best one of all, inclding all the major mountains of the region).
 
@@ -142,7 +142,7 @@ title: Daily Logs
 
 	First night without sleeping bags during the trip, crazy!
 
-	# Lukla, EBC Trek Day 13 - 08/11/23
+<h3>Lukla, EBC Trek Day 13 - 08/11/23</h3>
 
 	Well, who would've thought that the last day of the trek would be the hardest!
 
@@ -160,7 +160,7 @@ title: Daily Logs
 
 	Early wake up tomorrow, ~05:30, to catch our flight to Kathmandu at 7. 
 
-	# Kathmandu, EBC Trek Day 14 - 09/11/23
+<h3>Kathmandu, EBC Trek Day 14 - 09/11/23</h3>
 
 	Well, things didn't go according to plan. They gave our seats to other people and we were forced to take a flight to Ramechap and from there a minivan to Kathmandu. Instead of a 25min flight, the total duration of our return to Kathmandu was > 8h. I was very angry (I wanted to cry at the unfairness), I shouted at the people in the airport, nothing came of it. I was also frequently annoyed at the other people in the minivan with us.. Long story short, we made it back to the hotel.
 
@@ -168,7 +168,7 @@ title: Daily Logs
 
 
 
-	# My handwritten notes:
+<h3>My handwritten notes:</h3>
 	<iframe src="/note_flipbook.html" style="border:none;"></iframe>
 
 </div>
