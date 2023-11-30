@@ -5,7 +5,7 @@ title: Daily Logs
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openLog(event, 'MyLog')">My Log</button>
+  <button class="tablinks" onclick="openLog(event, 'MyLog')" id="defaultOpen">My Log</button>
   <button class="tablinks" onclick="openLog(event, 'LilysLog')">Lily's Log</button>
 </div>
 
@@ -15,6 +15,7 @@ title: Daily Logs
   	I tried to keep a daily log of my thoughts about the experiences of each day, so I've included them here in full to get across my feelings at the time, unedited by the lens of memory.
 
   	<img src="/images/dailylogs.jpg" alt="Writing in the journal at the end of the day in the teahouse common room" width="600"/>
+
 
 	If you're interested in reading my raw handwritten daily logs, go to the end of this page.
 
@@ -181,17 +182,21 @@ title: Daily Logs
 </div>
 
 <script>
-    function openLog(evt, logName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(logName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
+	function openLog(evt, logName) {
+	  var i, tabcontent, tablinks;
+	  tabcontent = document.getElementsByClassName("tabcontent");
+	  for (i = 0; i < tabcontent.length; i++) {
+	    tabcontent[i].style.display = "none";
+	  }
+	  tablinks = document.getElementsByClassName("tablinks");
+	  for (i = 0; i < tablinks.length; i++) {
+	    tablinks[i].className = tablinks[i].className.replace(" active", "");
+	  }
+	  document.getElementById(logName).style.display = "block";
+	  evt.currentTarget.className += " active";
+	}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+
 </script>
