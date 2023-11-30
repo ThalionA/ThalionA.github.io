@@ -13,9 +13,9 @@ title: Daily Logs
 <div id="MyLog" class="tabcontent">
   	I tried to keep a daily log of my thoughts about the experiences of each day, so I've included them here in full to get across my feelings at the time, unedited by the lens of memory.
 
-  	iframe{
+  	
   	<img src="/images/dailylogs.jpg" alt="Writing in the journal at the end of the day in the teahouse common room"/>
-  }
+
 
 	If you're interested in reading my raw handwritten daily logs, go to the end of this page.
 
