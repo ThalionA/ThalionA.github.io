@@ -29,7 +29,7 @@ title: Contact Us
     .contact-form input[type="text"],
     .contact-form input[type="email"],
     .contact-form textarea {
-        width: calc(100% - 2em); /* Adjust width considering padding */
+        width: calc(100% - 3em); /* Adjust width considering padding */
         margin: 0.5em auto; /* Centering the inputs */
         display: block;
     }
