@@ -43,17 +43,18 @@ title: Gear Recommendations
 
 
 <h3>Clothing</h3>
+I got as many clothes as possible in merino wool! Odour-resistant, temperature regulating, antibacterial, comfortable to wear, you won’t get cold if it’s wet from rain or sweat.  
 <ul>
     <li><strong>Merino Wool Clothing</strong>: 
         <ul>
             <li>Merino wool bra x3: Odour-resistant, temperature regulating, antibacterial, comfortable to wear. 
                 <ul>
-                    <li><a href="https://www.decathlon.co.uk/p/bra-merino-wool-mt500/_/R-p-324119?mc=8601370">Decathlon bras</a>: Merino wool, great support, removable padding. Note: They might slightly dig into the shoulders when carrying a heavy backpack.</li>
-                    <li><a href="https://www.alpinetrek.co.uk/mons-royale-womens-sierra-sports-bra-sports-bra/">Mons Royale merino wool bras</a>: Very comfortable, removable padding.</li>
+                    <li><a href="https://www.decathlon.co.uk/p/bra-merino-wool-mt500/_/R-p-324119?mc=8601370">Decathlon bras</a>: those bras from Decathlon are made of Merino wool and offer great support. Removable padding. They slightly dig into the shoulders when carrying a heavy backpack.</li>
+                    <li><a href="https://www.alpinetrek.co.uk/mons-royale-womens-sierra-sports-bra-sports-bra/">Mons Royale merino wool bras</a>: Mons Royale merino wool bras are great! Very comfortable to wear. Removable padding.</li>
                 </ul>
             </li>
             <li>Merino wool underwear x3: <a href="https://www.decathlon.co.uk/p/merino-wool-mountain-pants-mt500/_/R-p-306971?mc=8544730&c=PURPLE">Decathlon Merino Wool Mountain Pants</a></li>
-            <li>Period underwear x1: Important for hygiene and convenience.</li>
+            <li>Period underwear x1: I also brought some panty liners and a couple of pads. If your period is heavy, you might want to invest in good quality period underwear or bring lots of pads. I wouldn’t recommend tampons on the trek as they need to be changed with perfectly clean hands every 4-5 hours for your safety. Menstrual cups are an option as you can wear them for longer hours but, again, make sure your hands are perfectly clean before/after. Hand sanitizer with alcohol is likely to burn you…. Use sterile gloves or wash with soap and clean water, or perhaps a sanitizer without alcohol content? Or a mix of all that. Try at home first! (Tip: bring a sealproof and smellproof small bin bag to carry back your items so they can be disposed of safely).</li>
             <li>T-shirt merino wool x2: Ideal for the first few/last days of the trek. <a href="https://www.decathlon.co.uk/p/women-s-short-sleeved-merino-wool-trekking-travel-t-shirt-travel-100/_/R-p-6455?mc=8664893&c=ORANGE">Decathlon T-shirt</a></li>
             <li>Long sleeves merino tops x2: Suitable for cooler days.
                 <ul>
