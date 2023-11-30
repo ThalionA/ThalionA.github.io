@@ -3,7 +3,16 @@ layout: default
 title: Daily Logs
 ---
 
-I tried to keep a daily log of my thoughts about the experiences of each day, so I've included them here in full to get across my feelings at the time, unedited by the lens of memory.
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openLog(event, 'MyLog')">My Log</button>
+  <button class="tablinks" onclick="openLog(event, 'LilysLog')">Lily's Log</button>
+</div>
+
+<!-- My Log content -->
+<div id="MyLog" class="tabcontent">
+  <h3>My Log</h3>
+  I tried to keep a daily log of my thoughts about the experiences of each day, so I've included them here in full to get across my feelings at the time, unedited by the lens of memory.
 
 ![Writing in the journal at the end of the day in the teahouse common room](/images/dailylogs.jpg)
 
@@ -162,3 +171,20 @@ I liked looking at the river that was next to the road from Ramechap to Kathmand
 
 # My handwritten notes:
 <iframe src="/note_flipbook.html" style="border:none;"></iframe>
+
+
+</div>
+
+function openLog(evt, logName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(logName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
