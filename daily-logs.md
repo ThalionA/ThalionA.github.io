@@ -179,7 +179,7 @@ I liked looking at the river that was next to the road from Ramechap to Kathmand
 <!-- Lily's Log content -->
 <div id="LilysLog" class="tabcontent">
   <h3>Lily's Log</h3>
-  <!-- Lily's markdown/log content goes here -->
+  Coming soon...
 </div>
 
 function openLog(evt, logName) {
