@@ -11,7 +11,7 @@ title: Logistics
     <li>£336 (per person) for return flights to Lukla from Ramechap + jeep transfers to Kathmandu</li>
     <li>£346 (per person) vaccines not mandatory but recommended</li>
     <li>£75 (per person) for 4 nights at a hotel in Kathmandu, inlcuding food</li>
-    <li>£420 per person of cash initially + £55 (per person) from ATM</li>
+    <li>£420 (per person) of cash initially + £55 (per person) from ATM</li>
     <li>+ gifts/souvenirs</li>
 </ul>
 
