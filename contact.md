@@ -8,9 +8,9 @@ title: Contact Us
     .contact-form {
         max-width: 600px;
         margin: 0 auto;
-        padding: 1em;
+        padding: 2em;
         background: #f9f9f9;
-        border-radius: 70%; /* This will create the circular effect */
+        border-radius: 80%; /* This will create the circular effect */
         text-align: center;
         overflow: hidden; /* This ensures no inner content spills out of the circular bounds */
     }
