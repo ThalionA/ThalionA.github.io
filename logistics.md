@@ -18,4 +18,3 @@ title: Logistics
 <h3>Totals</h3>
 Theo: ~ £2,251.50
 Lily: ~ £2,477.50
-
