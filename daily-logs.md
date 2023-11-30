@@ -5,17 +5,17 @@ title: Daily Logs
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openLog(event, 'MyLog')" id="defaultOpen">My Log</button>
+  <button class="tablinks" onclick="openLog(event, 'MyLog')" id="defaultOpen">Theo's Log</button>
   <button class="tablinks" onclick="openLog(event, 'LilysLog')">Lily's Log</button>
 </div>
 
 <!-- My Log content -->
 <div id="MyLog" class="tabcontent">
-  <h3>My Log</h3>
   	I tried to keep a daily log of my thoughts about the experiences of each day, so I've included them here in full to get across my feelings at the time, unedited by the lens of memory.
 
-  	<img src="/images/dailylogs.jpg" alt="Writing in the journal at the end of the day in the teahouse common room" width="600"/>
-
+  	iframe{
+  	<img src="/images/dailylogs.jpg" alt="Writing in the journal at the end of the day in the teahouse common room"/>
+  }
 
 	If you're interested in reading my raw handwritten daily logs, go to the end of this page.
 
