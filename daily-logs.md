@@ -3,14 +3,14 @@ layout: default
 title: Daily Logs
 ---
 
-<!-- Tab links -->
+<!-- Tab links 
 <div class="tab">
   <button class="tablinks" onclick="openLog(event, 'MyLog')" id="defaultOpen">Theo's Log</button>
   <button class="tablinks" onclick="openLog(event, 'LilysLog')">Lily's Log</button>
-</div>
+</div>-->
 
 <!-- My Log content -->
-<div id="MyLog" class="tabcontent">
+<div id="MyLog">
   	<p>I tried to keep a daily log of my thoughts about the experiences of each day, so I've included them here in full to get across my feelings at the time, unedited by the lens of memory.</p>
 
   	
@@ -175,7 +175,7 @@ title: Daily Logs
 </div>
 
 
-<!-- Lily's Log content -->
+<!-- Lily's Log content 
 <div id="LilysLog" class="tabcontent">
   <h3>Lily's Log</h3>
   Coming soon...
@@ -199,4 +199,4 @@ title: Daily Logs
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 
-</script>
+</script> -->
