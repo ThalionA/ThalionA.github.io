@@ -42,6 +42,8 @@ title: Daily Logs
 
 	<p>The town of Namche itself is almost cosmopolitan. You can choose among 55(!) different lodges (we chose Yak Hotel), you can withdraw money from ATMs, and pay by card, you can get burgers and pizzas (we had one), and different places play movies at midday (usually mountain documentaries). There are also many mountaineering gear shops.</p>
 
+	<img src="/images/namche.jpg" alt="The town of Namche Bazaar" width="600"/>
+
 	<p>We'll stay two nights here to acclimatize to the altitude, with a day hike to Everest View Hotel tomorrow. We'll also take our first shower tomorrow. Ah, the things to look forward to!</p>
 
 <h3>Namche Bazaar, EBC Trek Day 3 - 29/10/23</h3>
@@ -51,6 +53,8 @@ title: Daily Logs
 	<p>Today we did our little acclimatization hike to Everest View Hotel. Quite steep to begin with and then levelled out. Many helicopters overhead again, many landing at the hotel's helipads. It's weird to see that; I definitely don't feel positive about these kind of tourists here. What is the point? Maybe ticking an item off the bucket list by saying you've seen Everest? On the other hand, again, where do we draw the line between taking a flight from Europe (or US / China / N. Zealand) and then another flight from Kathmandu to Lukla before starting the trek? We're also contributing a ton of greenhouse gases and pollution in general, to do what exactly? Satisfy our sense of curiosity and get a sense of awe, at best? Test our strength and resilience? Prove something to ourselves or to those around us? Get attention? I guess you have to be privileged enough to even ask these questions.</p>
 
 	<p>On the way to the hotel, we stopped at Sagarmatha Next, an organization that helps locals (through their own SPCC) reverse the effects of the pollution that westerners like us are responsible for to a large extent.</p>
+
+	<img src="/images/sagarmatha_next.jpg" alt="Art exhibit at Sagarmatha Next" width="600"/>
 
 	<p>Hopefully, we can also help a little bit by carrying some rubbish bags down with us from Namche to Lukla on our return. These will then get flown down to Kathmandu for recycling. Does that make up for our impact here; I'm not sure. It's very conflicting; how can we enjoy these sorts of places and fulfill our dreams (wherever they come from), while at the same time avoiding having an impact on the environment and/or the local cultures? Is it possible to achieve both or is it always a bad tradeoff to be made (like everything else in life)? Maybe if someone achieves a level of influence (like Alex Honnold e.g.), then you can both have a positive impact and continue doing the things you love. At Sagarmatha Next, we also got to experience (in VR - first time for me!) different parts of the Everest climb: the basecamp, crossing crevasses on the Khumbu Icefall, Camp IV on South Col, and the Balcony seeing all the oxygen bottles lying around in the snow and some climbers heading up for the summit. I couldn't help but think "it doesn't look too steep"!</p> 
 
@@ -64,6 +68,8 @@ title: Daily Logs
 
 	<p>We had the best views of Everest so far (and Lhotse, Cholatse, and Ama Dablam) a little while after leaving Namche. I felt that compared to this, the Everest View Hotel is really a scam to get tourists to pay extortionate prices for a coffee break there. But today all these mountains were clearly and awesomely visible from the trail. It helped that there were minimal clouds. Everest is recognisable from its dark rocky summit pyramid with a diagonal band of rock close to the snow-capped peak; Lhotse like its little twin on the right with the ridge of the South Col (I'm guessing) connecting them; Ama Dablam with its characteristic narrow peak and the serac near the top.</p>
 
+	<img src="/images/everest_lhotse_ama.jpg" alt="The first clear view of Everest (left), Lhotse (centre), and Ama Dablam (right)" width="600"/>
+
 	<p>The only thing that can spoil these kinds of landscapes is people. And they do in more ways than one. Today, the most noticeable ones for me were noise (Some Slavic group of people playing music and singing loudly as they went), and lack of consideration/some-other-appropriate-word (e.g., taking tons of poser pictures with the mountains with honestly a bit ridiculous poses, shouting people out of the way for their photo, or saying "work it girl" while I was taking a photo of Lily). There's also no shortage apparently of people really unfit for this trek (e.g., someone that had to be led essentially hand-held to make it down the path). Even the Sherpas play loud techno music from their speakers; it's a bit of a strange experience (is this what the first female Nepalese guide to be internationally recognized was referring to in the Sagarmatha Next video, when she said that Nepalese people have lost some of their culture?). So essentially, anything bad in this place comes from people.</p>
 
 	<p>What is good? I am thankful for the mountains themselves existing in the distance, calling to us, drawing us ever higher and nearer. They have drawn us from across a continent here, just to look at them from below. I am thankful for the breeze when we walk, cooling us down, and for the sun when we stop, keeping us warm. I am thankful for the Sherpa porters showing us mental and physical fortitude, and for the yaks for showing us patience. I am thankful for the relentlessly steep path under our boots for making us slow down and watch our breath, for teaching us to think of just the next step. And I'm thankful for being able to take off my pack at the end of this long day, rest my shoulders, warm up next to the stove, and enjoy a nice hot meal with my cutie.</p>
@@ -74,7 +80,11 @@ title: Daily Logs
 
 	<p>Yesterday, we did our acclimatisation hike to Ama Dablam base camp. The path was smaller, more rocky, and much less busy than the trek to EBC. The sun was shining the whole way, so despite the light wind and the elevation, it felt comfortable to hike up. Once again, there were great views of all the big mountains around. We also saw Pumori in the west for the first time. As we were going up, we had a river on our right, flowing in a big valley with steep sides of scree that often could be heard rolling down. Many jagged peaks could be seen on the other side of this valley and up ahead in the distance. Once again, I found myself wondering about the names of all those mountains.</p> 
 
+	<img src="/images/ama_valley.jpg" alt="The valley on the side of the path to Ama Dablam Base Camp" width="600"/>
+
 	<p>To reach the base camp, it took us about 2h30min of hiking (not including stops) and more than 700m of elevation gain, for a final elevation of ~4600m. It was surprising to see an entire settlement there, potentially bigger than Pangboche itself! So many tents, filling the entire bowl at the foot of Ama Dablam. Some, I assume, were sleeping tents, even though they seemed big enough to stand comfortably and to fit two beds. Some bigger ones appeared to be their "common rooms" and where they eat. And, finally, there were some massive white globe structures whose purpose (apart from headquarters) I couldn't tell. One of those had the "Nimsdai" sign in big letters on the front. I know that I'm quite prejudiced by now, but the more I see of this guy and his company Elite Expeditions, the more I dislike him (and, irrationally perhaps, his clients).</p>
+
+	<img src="/images/ama_bc.jpg" alt="Ama Dablam Base Camp" width="600"/>
 
 	<p>All those commercial team tents there made me think how this is not really the way I'd like to climb mountains. With all my essential gear, food, etc carried by others, then following the schedule that someone else has decided, me not even being part of the process, and then taking some pictures of it all for social media. I know that we always want to climb the "mountains of the mind", but these are not the mountains in my mind. I wonder whether there is an alternative to this way of climbing. If there's not, maybe I'll have to make my peace with climbing other, smaller mountains but in a way that I'm happy with.</p> 
 
@@ -86,7 +96,10 @@ title: Daily Logs
 
 	<p>Yesterday, we made it to Dingboche with no issues, even though we both felt quite tired. We were walking through a valley that felt quite desolate to me and also quite empty of people. When we arrived, we had a quick lunch and then I went to sleep quite quickly (we're staying at the Culture Home). After waking up and going to the relatively busy common room, it felt like I had a fever, so I took some meds. The day before, I had some GI problmes as well, so not a great few days overall.</p>
 
-	<p>Today, we did our acclimatisation hike up a neighbouring little mountain (well, it's only little here!), called Nangkartshang (or Nagerjun) which stands at ~5080m. So we passed 5000m for the first time ever! <img src="/images/5000m.jpg" alt="Crossing 5000m for the first time" width="600"/>
+	<p>Today, we did our acclimatisation hike up a neighbouring little mountain (well, it's only little here!), called Nangkartshang (or Nagerjun) which stands at ~5080m. So we passed 5000m for the first time ever! 
+
+	<img src="/images/5000m.jpg" alt="Crossing 5000m for the first time" width="600"/>
+
 	This "little" mountain is higher than Mont Blanc (4807m) and yet scores of people were just walking up it. That said, some of them were still led by hand up it... At the peak, it was quite busy and people were, in my opinion, quite inconsiderate again (especially some East Asian women..). Of course, with this many people, and a very dry path, there was tons of dust/sand swirling around and into our eyes and mouths (we could feel the crunching between our teeth!). We played a little bit among the boulders and took some funny photos doing pullups etc. Anyway, we made it up and down safely and then went for lunch at a cafe next to our lodge (4410). It was very fancy and westernised (playing acoustic covers of popular songs, selling pastries, playing a movie..). Unfortunately, I still feel quite sick, for sure having a fever and a full nose. Well, I still managed to enjoy dinner (veg egg noodles) and the common room is nice and warm.</p>
 
 	<p>Hopefully, I'll feel better tomorrow as we head to Lobuche (our second to last stop before EBC!).</p>
@@ -115,6 +128,8 @@ title: Daily Logs
 
 	<p>I hope this night goes better and I feel better tomorrow. We're supposed to go to EBC (finally!) and then as far down as our tired bodies will take us.</p>
 
+	<img src="/images/gorakshep_common.jpg" alt="The crowded common room in Gorak Shep" width="600"/>
+
 <h3>Lobuche, EBC Trek Day 10 - 05/11/23</h3>
 
 	<p>Thankfully, the pattern of each day feeling worse than the previous one didn't continue. I had a half-descent sleep last night (still riddled with need to burp, fart, pee...) and felt quite a bit better.</p>
@@ -135,13 +150,15 @@ title: Daily Logs
 
 	<p>For part of the way to Pangboche we made a little friend, a white dog, but then he betrayed us and now I don't love him anymore.</p>
 
+	<img src="/images/dog.jpg" alt="Our companion for part of the way down" width="300"/>
+
 	<p>Even though it was a long day of hiking, I felt better than the previous few days, quite noticeably, since most of the time the hiking was easy and downhill, but more importantly because I had a good night's sleep finally, with almost no interruptions. Burps etc also noticeably down, I'm not sure if because of staying away from eggs (which I suspected as the cause of my gastrointestinal discomfort), or because I got used to the higher altitude, or due to something else. In any case, whatever it was, I'm happy about the reprieve. My nose though is quite burnt and peeling. I'm trying to apply some sunscreen and some of Lily's facial cream.</p>
 
 	<p>Tomorrow, we head down to Namche, and the almost luxurious Yak Hotel, with a hot shower and free electricity in out room awaiting us. We'll need to withdraw some money though, because we burned through what we had a bit too quickly. It's going to be a hard day as well, since after the first big downhill, we'll have a long uphill to do. I hope Lily's sore throat improves with warmer air around us.</p>
 
 <h3>Namche, EBC Trek Day 12 - 07/11/23</h3>
 
-	<p>Relatively arduous day that started off with a steep downhill from Tengboche. (The view from the room's window was probably the best one of all, inclding all the major mountains of the region).</p>
+	<p>Relatively arduous day that started off with a steep downhill from Tengboche. (The view from the room's window was probably the best one of all, including all the major mountains of the region).</p>
 
 	<p>We had a nice lunch (tuna sandwiches are really worth it in Nepal apparently) with a great view to the mountaints at Kyangjuma. We were quite tired when we reached Namche and were looking forward to our first shower since the time we were last here (9 days ago!). We couldn't get a room at Yak Hotel again though, so we ended up getting a deluxe room (including double bed, ensuite toilet, and a shower) at Hotel Khangri. For dinner I had a burger since I was craving meat and I almost had a second one. I even got ice cream (mint choc chip) for dessert.</p>
 
@@ -152,6 +169,8 @@ title: Daily Logs
 	<p>Well, who would've thought that the last day of the trek would be the hardest!</p>
 
 	<p>We had our breakfast, checked out, withdrew some more NPR and then we spent a while lost in Namche looking for the "carry me back" back from SPCC. They ended up being at the checkpoint just after Namche, just as Lily thought. I took 3 bags (3kg), which would prove to be a mistake...</p>
+
+	<img src="/images/bags.jpg" alt="Carry me back bags" width="600"/>
 
 	<p>The hike from Namche to Lukla is 18km long, with many suspension bridges (5?) and *a lot* of elevation gains and losses; in total 721m of ascent and 1225m of descent! It took us ~6h15min of walking over almost 8h total (including a break at a nice bakery in Phakding).</p>
 
@@ -170,6 +189,8 @@ title: Daily Logs
 	<p>Well, things didn't go according to plan. They gave our seats to other people and we were forced to take a flight to Ramechap and from there a minivan to Kathmandu. Instead of a 25min flight, the total duration of our return to Kathmandu was > 8h. I was very angry (I wanted to cry at the unfairness), I shouted at the people in the airport, nothing came of it. I was also frequently annoyed at the other people in the minivan with us.. Long story short, we made it back to the hotel.</p>
 
 	<p>I liked looking at the river that was next to the road from Ramechap to Kathmandu. It seems that it's harvesting season, so there were a lot of people working in the fields under the sun - it looks like 99% of the work is being done manually still.</p>
+
+	<img src="/images/manual_labor.jpg" alt="Farmers in the fields on the road from Ramechap to Kathmandu" width="600"/>
 
 
 
