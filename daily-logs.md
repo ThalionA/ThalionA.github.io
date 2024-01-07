@@ -141,6 +141,8 @@ title: Daily Logs
 
 	<p>There were quite a few people at EBC, taking photos etc. Most of them wanted a photo with the boulder on which "EBC" is written, and we took photos with it too, as is customary I guess. Myself, I wished there were no people around, so that we could sit for a while in silence and look at the mountains and listen to the occasional sounds of the glacier. As it was, the experience of being there didn't exactly disappoint, but it definitely wasn't some dramatic moment of parting clouds and singing angels.</p> 
 
+	<img src="/images/ebc.jpg" alt="Everest Base Camp" width="800"/>
+
 	<p>On the way back, we saw a little avalanche on the side of Nuptse. It was fun to see, especially since it was far and there was no chance of injury to anyone. There were also helicopters flying overhead all day, flying quite high and then going back, presumably doing heli-tours of the area. Many people were being led to EBC on horse (sometimes reluctant horses..).</p>
 
 	<p>We returned to Gorak Shep, ate some lunch and made our way back to Lobuche. According to our schedule, we should've been at Pheriche for the night, but it wasn't really manageable today. That means that we have 3 days of hard walking to make up for lost time. Hopefully, Lily's apparently starting illness won't escalate and my own condition won't worsen again.</p>
