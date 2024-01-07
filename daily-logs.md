@@ -25,7 +25,8 @@ title: Daily Logs
 
 	<p>The day began at 01:40, with barely 4h of sleep. Our driver picked us up from the hotel and we drove for 4h to Ramechhap, the road alternating from OK to really bad dirt track, and the driving style from impatient to downright dangerous sometimes. It turned out that our driver had had just 1h of sleep on the previous night, and it sounds like he works almost 24/7 to make ends meet, because salary is so low and living costs so high. He can't afford his own car so he works for a company. Apparently, close to his village he has seen everything from foxes and deer to leopards!</p>
 
-	<p>After he dropped us off at the airport (a tiny building with an airstrip that takes up 2 football fields at most, and manual "check" for dangerous items that seems to be mostly taken at your word), we had probably one of the most spectacular flights to be had anywhere. We flew over mountainous terrain, mostly forested, and we could see to the north massive snow-capped peaks (unfortunately we weren't really able to tell which one was which...) protected by rugged fortifications in between. <img src="/images/lukla_flight.jpg" alt="The view from the plane to Lukla" width="600"/>
+	<p>After he dropped us off at the airport (a tiny building with an airstrip that takes up 2 football fields at most, and manual "check" for dangerous items that seems to be mostly taken at your word), we had probably one of the most spectacular flights to be had anywhere. We flew over mountainous terrain, mostly forested, and we could see to the north massive snow-capped peaks (unfortunately we weren't really able to tell which one was which...) protected by rugged fortifications in between. 
+	<img src="/images/lukla_flight.jpg" alt="The view from the plane to Lukla" width="800"/>
 	How did the first people, without access to planes and helicopters, manage to find a way to Everest and the other 8000ers? What drove them to such extraordinary lengths? How did they even dare to imagine such things possible? We follow now in their footsteps, but we walk only part of the path. And yet, we still judge others who walk smaller parts of this same path (helicopters seem to be flying overhead every 5 min or less; who are all these people? Where are they being flown to and from? Do they just tick EBC and fly back down? Are they injured or sick? Will *we* get injured or sick higher up?), or walk the same path but in a different way (e.g., I saw a woman, even younger than us potentially, who was drinking from a water pouch that her guide/porter was carrying. She was carrying absolutely nothing herself. I mean, nonjudgment has its limits).</p>
 
 	<p>In any case, after a good breakfast in Lukla, and obtaining permits etc, we hiked for about 5 hours give or take, passing multiple hanging bridges, which for me were actually quite scary! (not for Lily though!) We also passed (or rather let pass!) many yaks and mules with their loads. And many local people with their loads, which for the most part they hang around their forehead and back. They pass us uphill or downhill as if it's nothing for them. The children look happy and they're playing outside which is nice to see. The scenery is a valley with mountains on each side and milky-blue glacial water roaring down.</p>
@@ -42,7 +43,7 @@ title: Daily Logs
 
 	<p>The town of Namche itself is almost cosmopolitan. You can choose among 55(!) different lodges (we chose Yak Hotel), you can withdraw money from ATMs, and pay by card, you can get burgers and pizzas (we had one), and different places play movies at midday (usually mountain documentaries). There are also many mountaineering gear shops.</p>
 
-	<img src="/images/namche.jpg" alt="The town of Namche Bazaar" width="600"/>
+	<img src="/images/namche.jpg" alt="The town of Namche Bazaar" width="800"/>
 
 	<p>We'll stay two nights here to acclimatize to the altitude, with a day hike to Everest View Hotel tomorrow. We'll also take our first shower tomorrow. Ah, the things to look forward to!</p>
 
@@ -54,7 +55,7 @@ title: Daily Logs
 
 	<p>On the way to the hotel, we stopped at Sagarmatha Next, an organization that helps locals (through their own SPCC) reverse the effects of the pollution that westerners like us are responsible for to a large extent.</p>
 
-	<img src="/images/sagarmatha_next.jpg" alt="Art exhibit at Sagarmatha Next" width="600"/>
+	<img src="/images/sagarmatha_next.jpg" alt="Art exhibit at Sagarmatha Next" width="800"/>
 
 	<p>Hopefully, we can also help a little bit by carrying some rubbish bags down with us from Namche to Lukla on our return. These will then get flown down to Kathmandu for recycling. Does that make up for our impact here; I'm not sure. It's very conflicting; how can we enjoy these sorts of places and fulfill our dreams (wherever they come from), while at the same time avoiding having an impact on the environment and/or the local cultures? Is it possible to achieve both or is it always a bad tradeoff to be made (like everything else in life)? Maybe if someone achieves a level of influence (like Alex Honnold e.g.), then you can both have a positive impact and continue doing the things you love. At Sagarmatha Next, we also got to experience (in VR - first time for me!) different parts of the Everest climb: the basecamp, crossing crevasses on the Khumbu Icefall, Camp IV on South Col, and the Balcony seeing all the oxygen bottles lying around in the snow and some climbers heading up for the summit. I couldn't help but think "it doesn't look too steep"!</p> 
 
@@ -68,7 +69,7 @@ title: Daily Logs
 
 	<p>We had the best views of Everest so far (and Lhotse, Cholatse, and Ama Dablam) a little while after leaving Namche. I felt that compared to this, the Everest View Hotel is really a scam to get tourists to pay extortionate prices for a coffee break there. But today all these mountains were clearly and awesomely visible from the trail. It helped that there were minimal clouds. Everest is recognisable from its dark rocky summit pyramid with a diagonal band of rock close to the snow-capped peak; Lhotse like its little twin on the right with the ridge of the South Col (I'm guessing) connecting them; Ama Dablam with its characteristic narrow peak and the serac near the top.</p>
 
-	<img src="/images/everest_lhotse_ama.jpg" alt="The first clear view of Everest (left), Lhotse (centre), and Ama Dablam (right)" width="600"/>
+	<img src="/images/everest_lhotse_ama.jpg" alt="The first clear view of Everest (left), Lhotse (centre), and Ama Dablam (right)" width="800"/>
 
 	<p>The only thing that can spoil these kinds of landscapes is people. And they do in more ways than one. Today, the most noticeable ones for me were noise (Some Slavic group of people playing music and singing loudly as they went), and lack of consideration/some-other-appropriate-word (e.g., taking tons of poser pictures with the mountains with honestly a bit ridiculous poses, shouting people out of the way for their photo, or saying "work it girl" while I was taking a photo of Lily). There's also no shortage apparently of people really unfit for this trek (e.g., someone that had to be led essentially hand-held to make it down the path). Even the Sherpas play loud techno music from their speakers; it's a bit of a strange experience (is this what the first female Nepalese guide to be internationally recognized was referring to in the Sagarmatha Next video, when she said that Nepalese people have lost some of their culture?). So essentially, anything bad in this place comes from people.</p>
 
@@ -80,11 +81,11 @@ title: Daily Logs
 
 	<p>Yesterday, we did our acclimatisation hike to Ama Dablam base camp. The path was smaller, more rocky, and much less busy than the trek to EBC. The sun was shining the whole way, so despite the light wind and the elevation, it felt comfortable to hike up. Once again, there were great views of all the big mountains around. We also saw Pumori in the west for the first time. As we were going up, we had a river on our right, flowing in a big valley with steep sides of scree that often could be heard rolling down. Many jagged peaks could be seen on the other side of this valley and up ahead in the distance. Once again, I found myself wondering about the names of all those mountains.</p> 
 
-	<img src="/images/ama_valley.jpg" alt="The valley on the side of the path to Ama Dablam Base Camp" width="600"/>
+	<img src="/images/ama_valley.jpg" alt="The valley on the side of the path to Ama Dablam Base Camp" width="800"/>
 
 	<p>To reach the base camp, it took us about 2h30min of hiking (not including stops) and more than 700m of elevation gain, for a final elevation of ~4600m. It was surprising to see an entire settlement there, potentially bigger than Pangboche itself! So many tents, filling the entire bowl at the foot of Ama Dablam. Some, I assume, were sleeping tents, even though they seemed big enough to stand comfortably and to fit two beds. Some bigger ones appeared to be their "common rooms" and where they eat. And, finally, there were some massive white globe structures whose purpose (apart from headquarters) I couldn't tell. One of those had the "Nimsdai" sign in big letters on the front. I know that I'm quite prejudiced by now, but the more I see of this guy and his company Elite Expeditions, the more I dislike him (and, irrationally perhaps, his clients).</p>
 
-	<img src="/images/ama_bc.jpg" alt="Ama Dablam Base Camp" width="600"/>
+	<img src="/images/ama_bc.jpg" alt="Ama Dablam Base Camp" width="800"/>
 
 	<p>All those commercial team tents there made me think how this is not really the way I'd like to climb mountains. With all my essential gear, food, etc carried by others, then following the schedule that someone else has decided, me not even being part of the process, and then taking some pictures of it all for social media. I know that we always want to climb the "mountains of the mind", but these are not the mountains in my mind. I wonder whether there is an alternative to this way of climbing. If there's not, maybe I'll have to make my peace with climbing other, smaller mountains but in a way that I'm happy with.</p> 
 
@@ -98,7 +99,7 @@ title: Daily Logs
 
 	<p>Today, we did our acclimatisation hike up a neighbouring little mountain (well, it's only little here!), called Nangkartshang (or Nagerjun) which stands at ~5080m. So we passed 5000m for the first time ever! 
 
-	<img src="/images/5000m.jpg" alt="Crossing 5000m for the first time" width="600"/>
+	<img src="/images/5000m.jpg" alt="Crossing 5000m for the first time" width="800"/>
 
 	This "little" mountain is higher than Mont Blanc (4807m) and yet scores of people were just walking up it. That said, some of them were still led by hand up it... At the peak, it was quite busy and people were, in my opinion, quite inconsiderate again (especially some East Asian women..). Of course, with this many people, and a very dry path, there was tons of dust/sand swirling around and into our eyes and mouths (we could feel the crunching between our teeth!). We played a little bit among the boulders and took some funny photos doing pullups etc. Anyway, we made it up and down safely and then went for lunch at a cafe next to our lodge (4410). It was very fancy and westernised (playing acoustic covers of popular songs, selling pastries, playing a movie..). Unfortunately, I still feel quite sick, for sure having a fever and a full nose. Well, I still managed to enjoy dinner (veg egg noodles) and the common room is nice and warm.</p>
 
@@ -116,7 +117,7 @@ title: Daily Logs
 
 	<p>We passed by a place full of memorial monuments for all the people that these mountains have claimed in one way or another. Among them were Scott Fischer and Rob Hall (from the notorious 1996 disaster immortalized in Krakauer's "Into Thin Air" and the movie Everest). It's strange to think that they still lie on the slopes of Everest (I think) and yet there are these memorial for them quite far from wehere they died. So many people lying dead in the mountains. And for what? On the other hand, so many other people lying dead all over the lowlands, and for what? We all go, one way or another.</p>
 
-	<img src="/images/lobuche_monuments.jpg" alt="The memorial monuments before Lobuche" width="600"/>
+	<img src="/images/lobuche_monuments.jpg" alt="The memorial monuments before Lobuche" width="800"/>
 
 <h3>Gorak Shep, EBC Trek Day 9 - 04/11/23</h3>
 
@@ -128,7 +129,7 @@ title: Daily Logs
 
 	<p>I hope this night goes better and I feel better tomorrow. We're supposed to go to EBC (finally!) and then as far down as our tired bodies will take us.</p>
 
-	<img src="/images/gorakshep_common.jpg" alt="The crowded common room in Gorak Shep" width="600"/>
+	<img src="/images/gorakshep_common.jpg" alt="The crowded common room in Gorak Shep" width="800"/>
 
 <h3>Lobuche, EBC Trek Day 10 - 05/11/23</h3>
 
@@ -170,7 +171,7 @@ title: Daily Logs
 
 	<p>We had our breakfast, checked out, withdrew some more NPR and then we spent a while lost in Namche looking for the "carry me back" back from SPCC. They ended up being at the checkpoint just after Namche, just as Lily thought. I took 3 bags (3kg), which would prove to be a mistake...</p>
 
-	<img src="/images/bags.jpg" alt="Carry me back bags" width="600"/>
+	<img src="/images/bags.jpg" alt="Carry me back bags" width="800"/>
 
 	<p>The hike from Namche to Lukla is 18km long, with many suspension bridges (5?) and *a lot* of elevation gains and losses; in total 721m of ascent and 1225m of descent! It took us ~6h15min of walking over almost 8h total (including a break at a nice bakery in Phakding).</p>
 
@@ -190,7 +191,7 @@ title: Daily Logs
 
 	<p>I liked looking at the river that was next to the road from Ramechap to Kathmandu. It seems that it's harvesting season, so there were a lot of people working in the fields under the sun - it looks like 99% of the work is being done manually still.</p>
 
-	<img src="/images/manual_labor.jpg" alt="Farmers in the fields on the road from Ramechap to Kathmandu" width="600"/>
+	<img src="/images/manual_labor.jpg" alt="Farmers in the fields on the road from Ramechap to Kathmandu" width="800"/>
 
 
 
