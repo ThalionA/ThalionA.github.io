@@ -151,7 +151,7 @@ title: Daily Logs
 
 	<p>For part of the way to Pangboche we made a little friend, a white dog, but then he betrayed us and now I don't love him anymore.</p>
 
-	<img src="/images/dog.jpg" alt="Our companion for part of the way down" width="300"/>
+	<img src="/images/dog.jpg" alt="Our companion for part of the way down" width="600"/>
 
 	<p>Even though it was a long day of hiking, I felt better than the previous few days, quite noticeably, since most of the time the hiking was easy and downhill, but more importantly because I had a good night's sleep finally, with almost no interruptions. Burps etc also noticeably down, I'm not sure if because of staying away from eggs (which I suspected as the cause of my gastrointestinal discomfort), or because I got used to the higher altitude, or due to something else. In any case, whatever it was, I'm happy about the reprieve. My nose though is quite burnt and peeling. I'm trying to apply some sunscreen and some of Lily's facial cream.</p>
 
