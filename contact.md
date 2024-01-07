@@ -65,3 +65,13 @@ title: Contact Us
         <button type="submit">Send</button>
     </form>
 </div>
+
+## Our social media
+
+<a href="https://www.instagram.com/im_themountain" target="_blank">
+    <img src="instagram_logo.png" alt="Theo's profile" style="width: 40px; height: 40px;">
+</a>
+
+<a href="https://www.instagram.com/coralie_therapy" target="_blank">
+    <img src="instagram_logo.png" alt="Lily's profile" style="width: 40px; height: 40px;">
+</a>
