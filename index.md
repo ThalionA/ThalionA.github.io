@@ -16,10 +16,10 @@ Detailed account of each day's hike with distance, elevation, and maps.
 A daily account of the trek written day by day.
 
 ## [Training](/training-suggestions)
-My training prior to the trek and some recommendations.
+Theo's training prior to the trek and some recommendations.
 
 ## [Test your fitness](/streamlit-apps)
-A couple of simple apps I built that you can use to test different aspects of your fitness.
+A couple of simple apps Theo built that you can use to test different aspects of your fitness.
 
 ## [Gear](/gear-recommendations)
 The gear we used on the trek and some recommendations.
