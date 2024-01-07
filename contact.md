@@ -69,9 +69,12 @@ title: Contact Us
 ## Our social media
 
 <a href="https://www.instagram.com/imthe_mountain" target="_blank">
-    <img src="/images/instagram_logo.jpg" alt="Theo's profile" style="width: 40px; height: 40px;">
+    <img src="/images/instagram_logo.jpg" style="width: 40px; height: 40px;">
+    Theo's profile
 </a>
 
 <a href="https://www.instagram.com/coralie_therapy" target="_blank">
-    <img src="/images/instagram_logo.jpg" alt="Lily's profile" style="width: 40px; height: 40px;">
+    <img src="/images/instagram_logo.jpg" style="width: 40px; height: 40px;">
+    Lily's profile
 </a>
+
