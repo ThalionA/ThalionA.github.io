@@ -19,7 +19,7 @@ And here's one to do the "Alpine Combine" fitness test outlined in the "Training
         <a href="https://alpinecombine.streamlit.app/" target="_blank">
             <img src="/images/Alpine_App_Screenshot.png" alt="Alpine Combine App" style="width: 100%; height: auto;">
         </a>
-        <figcaption style="text-align: center;">VO2 max app screenshot</figcaption>
+        <figcaption style="text-align: center;">Alpine combine app screenshot</figcaption>
     </figure>
 </div>
 
