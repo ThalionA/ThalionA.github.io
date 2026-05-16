@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Test your fitness
+description: Free fitness-test web apps to estimate your VO2 max and run the Alpine Combine test before your Everest Base Camp trek.
 ---
 
 Here's a free online app I created to get an estimate of your VO2 max using either a running or a rowing test:

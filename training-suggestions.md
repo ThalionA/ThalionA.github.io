@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Training
+description: How I trained for Everest Base Camp from a flat area — a 16-week progression plan, weekly structure, key principles and recommendations.
 ---
 
 The main book I used to create a structured training plan was Training for the New Alpinism by Steve House and Scott Johnston:

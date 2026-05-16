@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Daily Logs
+description: An honest day-by-day journal from our Everest Base Camp trek, including the original handwritten logs written each night on the trail.
 ---
 
 <!-- Tab links 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Everest Base Camp Trek
+description: A complete Everest Base Camp trek guide from a couple who did it — daily logs, full itinerary with maps, gear list, training plan, costs and logistics.
 ---
 
 # Welcome to Our Guide to the Everest Base Camp Trek

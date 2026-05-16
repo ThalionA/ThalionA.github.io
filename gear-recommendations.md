@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gear Recommendations
+description: The full gear list we used on the Everest Base Camp trek — what worked, what didn't, and what we'd change next time.
 ---
 
 ![Packing all the gear before departing](/images/allgear.jpg)

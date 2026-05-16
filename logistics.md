@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Logistics
+description: Everest Base Camp logistics and costs — flights, permits, vaccinations, a full expense breakdown and practical tips for Nepal.
 ---
 
 # Expense breakdown

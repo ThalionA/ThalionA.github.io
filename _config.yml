@@ -1,19 +1,33 @@
 # Site settings
 title: Everest Base Camp Guide
-description: A detailed journey through our Everest Base Camp trek, including daily logs, maps, gear recommendations, and more.
+description: A complete Everest Base Camp trek guide — daily logs, full itinerary with maps, gear list, training plan, costs and logistics.
+url: "https://thaliona.github.io"
+baseurl: ""
+lang: en-US
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Author information (optional)
 author:
   name: Theoklitos Amvrosiadis
   email: theoamvr@gmail.com
 
-# Social media links (optional)
-twitter_username: theoamvr
+# Social media / link-preview metadata (used by jekyll-seo-tag)
+twitter:
+  username: theoamvr
+  card: summary_large_image
+
+# Default image shown when a page is shared (Open Graph / Twitter card)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/everest_lhotse_ama.jpg
 
 # Build settings
 markdown: kramdown
@@ -31,9 +45,3 @@ exclude:
   - vendor/gems
   - vendor/ruby
 
-# Plugins (uncomment to activate)
-# - jekyll-feed
-# - jekyll-seo-tag
-
-# Optional: include a custom 404 page
-# 404.html: your-custom-404-page.html

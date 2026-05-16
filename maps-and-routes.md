@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Maps and Routes
+description: Day-by-day Everest Base Camp itinerary with distances, ascent/descent, elevation profiles and GPS maps for every stage from Lukla to EBC.
 ---
 
 In this page you'll find the itinerary that we followed, some summary stats for the trek, as well as each individual hiking activity per day (as captured by my watch) with detailed information about distance, elevation profile, map etc. Hopefully, this can help you plan your own itinerary having all the information in one place, instead of scattered across different websites.

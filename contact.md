@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Us
+description: Questions about the Everest Base Camp trek, gear or logistics? Get in touch and find us on social media.
 ---
 
 ## How to contact us
