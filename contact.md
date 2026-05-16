@@ -3,78 +3,42 @@ layout: default
 title: Contact Us
 ---
 
-<style>
-    /* Container holding the form */
-    .contact-form {
-        max-width: 600px;
-        margin: 0 auto;
-        padding: 2em;
-        background: #f9f9f9;
-        border-radius: 80%; /* This will create the circular effect */
-        text-align: center;
-        overflow: hidden; /* This ensures no inner content spills out of the circular bounds */
-    }
-
-    /* Additional styles might be necessary for form elements */
-    .contact-form input[type="text"],
-    .contact-form input[type="email"],
-    .contact-form textarea,
-    .contact-form button {
-        /* Assuming you want these elements to keep straight edges */
-        border-radius: 0; /* Resets any border-radius applied to form elements */
-        /* Other styles... */
-    }
-
-    /* You might want to adjust the form elements to ensure they fit well within the circular container */
-    .contact-form input[type="text"],
-    .contact-form input[type="email"],
-    .contact-form textarea {
-        width: calc(100% - 3em); /* Adjust width considering padding */
-        margin: 0.5em auto; /* Centering the inputs */
-        display: block;
-    }
-
-    .contact-form button {
-        /* Other styles... */
-        margin-top: 0.5em;
-    }
-
-    /* Adjust the height of the textarea for better fit */
-    .contact-form textarea {
-        height: 100px; /* Example height */
-    }
-</style>
-
-
 ## How to contact us
 
-<div class="contact-form">
-    <form action="https://formspree.io/f/xgejjngl" method="POST">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
+Have a question about the trek, the gear, the logistics, or just want to say hello? Drop us a message and we'll get back to you.
 
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="_replyto" required>
+<div class="contact-card">
+  <form action="https://formspree.io/f/xgejjngl" method="POST">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" required>
 
-        <label for="message">Message:</label>
-        <textarea id="message" name="message" required></textarea>
+    <label for="email">Email</label>
+    <input type="email" id="email" name="_replyto" required>
 
-        <!-- Hidden input to help prevent spam -->
-        <input type="text" name="_gotcha" style="display:none">
+    <label for="message">Message</label>
+    <textarea id="message" name="message" rows="5" required></textarea>
 
-        <button type="submit">Send</button>
-    </form>
+    <!-- Honeypot field to reduce spam -->
+    <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+
+    <button type="submit">Send message</button>
+  </form>
 </div>
 
-## Our social media
+## Find us on social media
 
-<a href="https://www.instagram.com/imthe_mountain" target="_blank">
-    <img src="/images/instagram_logo.jpg" style="width: 40px; height: 40px;">
-    Theo's profile
-</a>
+<div class="social-links">
+  <a class="social-link" href="https://www.instagram.com/imthe_mountain" target="_blank" rel="noopener">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+      <path d="M12 2.2c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41a3.7 3.7 0 0 1-1.38-.9 3.7 3.7 0 0 1-.9-1.38c-.16-.42-.36-1.06-.41-2.23C2.21 15.58 2.2 15.2 2.2 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.21 8.8 2.2 12 2.2zm0 1.8c-3.15 0-3.5.01-4.74.07-.95.04-1.47.2-1.81.34-.46.18-.78.39-1.12.73-.34.34-.55.66-.73 1.12-.14.34-.3.86-.34 1.81C3.21 9.5 3.2 9.85 3.2 13s.01 3.5.07 4.74c.04.95.2 1.47.34 1.81.18.46.39.78.73 1.12.34.34.66.55 1.12.73.34.14.86.3 1.81.34 1.24.06 1.59.07 4.74.07s3.5-.01 4.74-.07c.95-.04 1.47-.2 1.81-.34.46-.18.78-.39 1.12-.73.34-.34.55-.66.73-1.12.14-.34.3-.86.34-1.81.06-1.24.07-1.59.07-4.74s-.01-3.5-.07-4.74c-.04-.95-.2-1.47-.34-1.81a3.02 3.02 0 0 0-.73-1.12 3.02 3.02 0 0 0-1.12-.73c-.34-.14-.86-.3-1.81-.34C15.5 4.01 15.15 4 12 4zm0 3.06A4.94 4.94 0 1 1 12 16.94 4.94 4.94 0 0 1 12 7.06zm0 1.8a3.14 3.14 0 1 0 0 6.28 3.14 3.14 0 0 0 0-6.28zm5.13-2.04a1.15 1.15 0 1 1 0 2.3 1.15 1.15 0 0 1 0-2.3z"/>
+    </svg>
+    <span>Theo — @imthe_mountain</span>
+  </a>
 
-<a href="https://www.instagram.com/coralie_therapy" target="_blank">
-    <img src="/images/instagram_logo.jpg" style="width: 40px; height: 40px;">
-    Lily's profile
-</a>
-
+  <a class="social-link" href="https://www.instagram.com/coralie_therapy" target="_blank" rel="noopener">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+      <path d="M12 2.2c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41a3.7 3.7 0 0 1-1.38-.9 3.7 3.7 0 0 1-.9-1.38c-.16-.42-.36-1.06-.41-2.23C2.21 15.58 2.2 15.2 2.2 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.21 8.8 2.2 12 2.2zm0 1.8c-3.15 0-3.5.01-4.74.07-.95.04-1.47.2-1.81.34-.46.18-.78.39-1.12.73-.34.34-.55.66-.73 1.12-.14.34-.3.86-.34 1.81C3.21 9.5 3.2 9.85 3.2 13s.01 3.5.07 4.74c.04.95.2 1.47.34 1.81.18.46.39.78.73 1.12.34.34.66.55 1.12.73.34.14.86.3 1.81.34 1.24.06 1.59.07 4.74.07s3.5-.01 4.74-.07c.95-.04 1.47-.2 1.81-.34.46-.18.78-.39 1.12-.73.34-.34.55-.66.73-1.12.14-.34.3-.86.34-1.81.06-1.24.07-1.59.07-4.74s-.01-3.5-.07-4.74c-.04-.95-.2-1.47-.34-1.81a3.02 3.02 0 0 0-.73-1.12 3.02 3.02 0 0 0-1.12-.73c-.34-.14-.86-.3-1.81-.34C15.5 4.01 15.15 4 12 4zm0 3.06A4.94 4.94 0 1 1 12 16.94 4.94 4.94 0 0 1 12 7.06zm0 1.8a3.14 3.14 0 1 0 0 6.28 3.14 3.14 0 0 0 0-6.28zm5.13-2.04a1.15 1.15 0 1 1 0 2.3 1.15 1.15 0 0 1 0-2.3z"/>
+    </svg>
+    <span>Lily — @coralie_therapy</span>
+  </a>
+</div>

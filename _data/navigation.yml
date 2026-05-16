@@ -1,0 +1,19 @@
+# Site-wide navigation. Edit this list to change the nav bar everywhere.
+- title: Home
+  url: /
+- title: Maps & Routes
+  url: /maps-and-routes
+- title: Daily Logs
+  url: /daily-logs
+- title: Training
+  url: /training-suggestions
+- title: Fitness Tests
+  url: /streamlit-apps
+- title: Gear
+  url: /gear-recommendations
+- title: Logistics
+  url: /logistics
+- title: About
+  url: /about-us
+- title: Contact
+  url: /contact

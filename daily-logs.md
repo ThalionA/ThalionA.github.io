@@ -198,7 +198,9 @@ title: Daily Logs
 
 
 <h3>My handwritten notes:</h3>
-	<iframe src="/note_flipbook.html" width=600px style="border:none;"></iframe>
+<div class="flipbook-embed">
+	<iframe src="/note_flipbook.html" title="Handwritten daily logs flipbook" loading="lazy"></iframe>
+</div>
 
 </div>
 

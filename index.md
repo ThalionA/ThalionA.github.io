@@ -5,33 +5,72 @@ title: Everest Base Camp Trek
 
 # Welcome to Our Guide to the Everest Base Camp Trek
 
-Embark on a virtual journey to one of the most iconic destinations in the world: the Everest Base Camp. This website is our comprehensive guide, chronicling not only our personal experiences and daily logs from the trek but also providing essential information and resources to help you prepare for your own adventure. Whether you're looking to prepare for your own trek or simply interested in learning about the Everest Base Camp experience, this site aims to be a helpful and engaging companion.
+<p class="home-intro">Embark on a virtual journey to one of the most iconic destinations in the world: the Everest Base Camp. This is our comprehensive guide, chronicling our personal experiences and daily logs from the trek, alongside the practical information and resources to help you prepare for your own adventure. We (Theo and Lily) hope you find value and inspiration in these pages. Welcome to a glimpse of Everest.</p>
 
-We (Theo and Lily) hope you find value and inspiration in these pages. Welcome to a glimpse of Everest.
+<div class="card-grid">
 
-## [Maps and Routes](/maps-and-routes)
-Detailed account of each day's hike with distance, elevation, and maps.
+  <a class="card" href="/maps-and-routes">
+    <img class="card-img" src="/images/ama_valley.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <h3 class="card-title">Maps &amp; Routes</h3>
+      <p class="card-text">Each day's hike with distance, elevation profiles, and maps.</p>
+    </div>
+  </a>
 
-## [Daily Logs](/daily-logs)
-A daily account of the trek written day by day.
+  <a class="card" href="/daily-logs">
+    <img class="card-img" src="/images/dailylogs.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <h3 class="card-title">Daily Logs</h3>
+      <p class="card-text">A daily account of the trek, written day by day on the trail.</p>
+    </div>
+  </a>
 
-## [Training](/training-suggestions)
-Theo's training prior to the trek and some recommendations.
+  <a class="card" href="/training-suggestions">
+    <img class="card-img" src="/images/newalpinism.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <h3 class="card-title">Training</h3>
+      <p class="card-text">Theo's training plan before the trek and some recommendations.</p>
+    </div>
+  </a>
 
-## [Test your fitness](/streamlit-apps)
-A couple of simple apps Theo built that you can use to test different aspects of your fitness.
+  <a class="card" href="/streamlit-apps">
+    <img class="card-img" src="/images/handstand.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <h3 class="card-title">Fitness Tests</h3>
+      <p class="card-text">Simple apps Theo built to test different aspects of your fitness.</p>
+    </div>
+  </a>
 
-## [Gear](/gear-recommendations)
-The gear we used on the trek and some recommendations.
+  <a class="card" href="/gear-recommendations">
+    <img class="card-img" src="/images/allgear.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <h3 class="card-title">Gear</h3>
+      <p class="card-text">The gear we used on the trek and what we'd recommend.</p>
+    </div>
+  </a>
 
-## [Logistics](/logistics)
-All the practical details for the trip, from the expenses breakdown to the required vaccinations and more.
+  <a class="card" href="/logistics">
+    <img class="card-img" src="/images/bags.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <h3 class="card-title">Logistics</h3>
+      <p class="card-text">Expenses, vaccinations, permits, and all the practical details.</p>
+    </div>
+  </a>
 
-## [About Us](/about-us)
-Who we are, our backgrounds, and interests.
+  <a class="card" href="/about-us">
+    <img class="card-img" src="/images/selfie.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <h3 class="card-title">About Us</h3>
+      <p class="card-text">Who we are, our backgrounds, and our interests.</p>
+    </div>
+  </a>
 
-## [Contact and Social Media](/contact)
-A contact form for any questions or comments and where to find us on social media.
+  <a class="card" href="/contact">
+    <img class="card-img" src="/images/namche.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <h3 class="card-title">Contact</h3>
+      <p class="card-text">Questions or comments? Reach out and find us on social media.</p>
+    </div>
+  </a>
 
----
-
+</div>

@@ -1,77 +1,215 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily Logs Flipbook</title>
-    <style>
-        #flipbook {
-            width: 600px;
-            height: 800px;
-            margin: 20px auto;
-        }
-        #flipbook .page {
-            width: 100%;
-            height: 100%;
-            background-color: white;
-        }
-        #flipbook .page img {
-            width: 100%;
-            height: 100%;
-        }
-        .flipbook-ctrl {
-            text-align: center;
-            margin-top: 10px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Logs Flipbook</title>
+  <style>
+    :root { --accent: #157878; }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #1c1c1c;
+      font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: #fff;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .book-wrap {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 14px 12px 18px;
+    }
+    .stage {
+      position: relative;
+      width: 100%;
+      /* journal pages are roughly portrait; keep a stable aspect box */
+      aspect-ratio: 3 / 4;
+      background: #2a2a2a;
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,.45);
+      perspective: 1600px;
+    }
+    .page-img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      background: #fff;
+      opacity: 0;
+      transform: rotateY(-12deg);
+      transition: opacity .28s ease, transform .28s ease;
+      pointer-events: none;
+    }
+    .page-img.is-current {
+      opacity: 1;
+      transform: rotateY(0deg);
+      pointer-events: auto;
+    }
+    /* invisible click zones for prev/next */
+    .tap {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 38%;
+      z-index: 5;
+      cursor: pointer;
+      border: 0;
+      background: transparent;
+      padding: 0;
+    }
+    .tap.prev { left: 0; }
+    .tap.next { right: 0; }
+    .spinner {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      color: #aaa;
+    }
+    .controls {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      margin-top: 12px;
+    }
+    .controls button {
+      appearance: none;
+      border: 0;
+      background: var(--accent);
+      color: #fff;
+      font-size: 15px;
+      font-weight: 700;
+      padding: 9px 18px;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: filter .15s ease, transform .05s ease;
+    }
+    .controls button:hover { filter: brightness(1.12); }
+    .controls button:active { transform: translateY(1px); }
+    .controls button:disabled {
+      opacity: .35;
+      cursor: not-allowed;
+      filter: none;
+    }
+    .counter {
+      min-width: 72px;
+      text-align: center;
+      font-variant-numeric: tabular-nums;
+      font-size: 14px;
+      color: #ddd;
+    }
+    .hint {
+      text-align: center;
+      margin: 10px 0 0;
+      font-size: 12px;
+      color: #888;
+    }
+    @media (max-width: 480px) {
+      .controls button { padding: 9px 14px; font-size: 14px; }
+    }
+  </style>
 </head>
 <body>
-    <div id="flipbook">
-        <div class="page"><img src="images/Page1.jpg" alt="Page 1"></div>
-        <div class="page"><img src="images/Page2.jpg" alt="Page 2"></div>
-        <div class="page"><img src="images/Page3.jpg" alt="Page 3"></div>
-        <div class="page"><img src="images/Page4.jpg" alt="Page 4"></div>
-        <div class="page"><img src="images/Page5.jpg" alt="Page 5"></div>
-        <div class="page"><img src="images/Page6.jpg" alt="Page 6"></div>
-        <div class="page"><img src="images/Page7.jpg" alt="Page 7"></div>
-        <div class="page"><img src="images/Page8.jpg" alt="Page 8"></div>
-        <div class="page"><img src="images/Page9.jpg" alt="Page 9"></div>
-        <div class="page"><img src="images/Page10.jpg" alt="Page 10"></div>
-        <div class="page"><img src="images/Page11.jpg" alt="Page 11"></div>
-        <div class="page"><img src="images/Page12.jpg" alt="Page 12"></div>
-        <div class="page"><img src="images/Page13.jpg" alt="Page 13"></div>
-        <div class="page"><img src="images/Page14.jpg" alt="Page 14"></div>
-        <div class="page"><img src="images/Page15.jpg" alt="Page 15"></div>
-        <div class="page"><img src="images/Page16.jpg" alt="Page 16"></div>
-        <div class="page"><img src="images/Page17.jpg" alt="Page 17"></div>
-        <div class="page"><img src="images/Page18.jpg" alt="Page 18"></div>
-        <div class="page"><img src="images/Page19.jpg" alt="Page 19"></div>
-        <div class="page"><img src="images/Page20.jpg" alt="Page 20"></div>
-        <div class="page"><img src="images/Page21.jpg" alt="Page 21"></div>
-        <div class="page"><img src="images/Page22.jpg" alt="Page 22"></div>
-        <div class="page"><img src="images/Page23.jpg" alt="Page 23"></div>
-        <div class="page"><img src="images/Page24.jpg" alt="Page 24"></div>
-        <div class="page"><img src="images/Page25.jpg" alt="Page 25"></div>
-        <div class="page"><img src="images/Page26.jpg" alt="Page 26"></div>
-        <div class="page"><img src="images/Page27.jpg" alt="Page 27"></div>
-        <div class="page"><img src="images/Page28.jpg" alt="Page 28"></div>
-        <div class="page"><img src="images/Page29.jpg" alt="Page 29"></div>
-        <div class="page"><img src="images/Page30.jpg" alt="Page 30"></div>
-        <div class="page"><img src="images/Page31.jpg" alt="Page 31"></div>
-        <div class="page"><img src="images/Page32.jpg" alt="Page 32"></div>
-        <div class="page"><img src="images/Page33.jpg" alt="Page 33"></div>
-        <div class="page"><img src="images/Page34.jpg" alt="Page 34"></div>
-        <div class="page"><img src="images/Page35.jpg" alt="Page 35"></div>
-        <div class="page"><img src="images/Page36.jpg" alt="Page 36"></div>
-        <div class="page"><img src="images/Page37.jpg" alt="Page 37"></div>
-        <div class="page"><img src="images/Page38.jpg" alt="Page 38"></div>
-        <div class="page"><img src="images/Page39.jpg" alt="Page 39"></div>
-        <div class="page"><img src="images/Page40.jpg" alt="Page 40"></div>
-        <div class="page"><img src="images/Page41.jpg" alt="Page 41"></div>
-        <div class="page"><img src="images/Page42.jpg" alt="Page 42"></div>
-        <div class="page"><img src="images/Page43.jpg" alt="Page 43"></div>
-        <div class="page"><img src="images/Page44.jpg" alt="Page 44"></div>
-        <div class="page"><img src="images/Page45.jpg" alt="Page 45"></div>
+  <div class="book-wrap">
+    <div class="stage" id="stage">
+      <div class="spinner" id="spinner">Loading journal…</div>
+      <button class="tap prev" id="tapPrev" aria-label="Previous page"></button>
+      <button class="tap next" id="tapNext" aria-label="Next page"></button>
     </div>
+
+    <div class="controls">
+      <button id="btnPrev" aria-label="Previous page">‹ Prev</button>
+      <span class="counter" id="counter">1 / 45</span>
+      <button id="btnNext" aria-label="Next page">Next ›</button>
+    </div>
+    <p class="hint">Use the buttons, arrow keys, tap the sides, or swipe.</p>
+  </div>
+
+  <script>
+    (function () {
+      var TOTAL = 45;
+      var stage = document.getElementById('stage');
+      var spinner = document.getElementById('spinner');
+      var counter = document.getElementById('counter');
+      var btnPrev = document.getElementById('btnPrev');
+      var btnNext = document.getElementById('btnNext');
+      var tapPrev = document.getElementById('tapPrev');
+      var tapNext = document.getElementById('tapNext');
+
+      var imgs = [];
+      var current = 0;
+      var loaded = {};
+
+      function srcFor(i) { return 'images/Page' + (i + 1) + '.jpg'; }
+
+      function ensureLoaded(i) {
+        if (i < 0 || i >= TOTAL || loaded[i]) return;
+        loaded[i] = true;
+        var el = imgs[i];
+        el.src = srcFor(i);
+      }
+
+      // build the image elements lazily
+      for (var i = 0; i < TOTAL; i++) {
+        var img = document.createElement('img');
+        img.className = 'page-img';
+        img.alt = 'Journal page ' + (i + 1);
+        img.decoding = 'async';
+        stage.appendChild(img);
+        imgs.push(img);
+      }
+
+      function render() {
+        for (var i = 0; i < TOTAL; i++) {
+          imgs[i].classList.toggle('is-current', i === current);
+        }
+        // preload current + neighbours
+        ensureLoaded(current);
+        ensureLoaded(current + 1);
+        ensureLoaded(current - 1);
+        counter.textContent = (current + 1) + ' / ' + TOTAL;
+        btnPrev.disabled = tapPrev.disabled = current === 0;
+        btnNext.disabled = tapNext.disabled = current === TOTAL - 1;
+        if (spinner) { spinner.style.display = 'none'; }
+      }
+
+      function go(delta) {
+        var next = Math.min(TOTAL - 1, Math.max(0, current + delta));
+        if (next === current) return;
+        current = next;
+        render();
+      }
+
+      btnPrev.addEventListener('click', function () { go(-1); });
+      btnNext.addEventListener('click', function () { go(1); });
+      tapPrev.addEventListener('click', function () { go(-1); });
+      tapNext.addEventListener('click', function () { go(1); });
+
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'ArrowLeft') { go(-1); }
+        else if (e.key === 'ArrowRight') { go(1); }
+      });
+
+      // touch swipe
+      var startX = null;
+      stage.addEventListener('touchstart', function (e) {
+        startX = e.touches[0].clientX;
+      }, { passive: true });
+      stage.addEventListener('touchend', function (e) {
+        if (startX === null) return;
+        var dx = e.changedTouches[0].clientX - startX;
+        if (Math.abs(dx) > 40) { go(dx < 0 ? 1 : -1); }
+        startX = null;
+      }, { passive: true });
+
+      render();
+    })();
+  </script>
 </body>
 </html>
