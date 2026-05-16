@@ -232,6 +232,65 @@ $bg-soft: #f6f9f9;
 }
 
 // ----------------------------------------------------------------------------
+//  Training plan tables (weekly structure + 16-week progression)
+// ----------------------------------------------------------------------------
+.plan-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  margin: 0.5rem 0 0.75rem;
+
+  th, td {
+    border: 1px solid $line;
+    padding: 9px 11px;
+    text-align: center;
+  }
+  thead th {
+    background-color: $accent;
+    color: #fff;
+    font-weight: 600;
+  }
+  tbody th[scope="row"] {
+    background-color: $bg-soft;
+    color: $ink;
+    text-align: left;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  td small {
+    display: block;
+    color: $muted;
+    font-size: 0.78rem;
+  }
+  tbody tr:not(.deload):nth-child(even) { background-color: $bg-soft; }
+
+  tr.deload td {
+    background-color: #fff5ec;
+    color: $muted;
+  }
+}
+
+.plan-table .tag,
+.deload-key {
+  display: inline-block;
+  background: #f0a35e;
+  color: #5a3410;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  padding: 1px 7px;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+
+.deload-key {
+  background: #fff5ec;
+  color: #8a5520;
+  border: 1px solid #f0a35e;
+}
+
+// ----------------------------------------------------------------------------
 //  Contact form + social links
 // ----------------------------------------------------------------------------
 .contact-card {
